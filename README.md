@@ -27,7 +27,7 @@ To contribute:
  
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [Shopify](https://www.shopify.ca/careers/search?specialties%5B%5D=13&keywords=&sort=) |  Toronto, Ottawa |  Starting in January |  |
- |  [Pagerduty](https://www.pagerduty.com/careers/) |  Toronto |  Starting in January |   |
+ |  [Shopify](https://www.shopify.ca/careers/search?specialties%5B%5D=13&keywords=&sort=) |  Toronto, Ottawa |  Opens in January |  |
+ |  [Pagerduty](https://www.pagerduty.com/careers/) |  Toronto |  Opens in January |   |
  |  [Loblaw Digital](https://jobs.lever.co/loblawdigital) |  Toronto | Opens in January   |   |
-
+ |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto | Opens in January   |   |
