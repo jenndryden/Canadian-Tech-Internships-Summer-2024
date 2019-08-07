@@ -30,4 +30,8 @@ To contribute:
  |  [Shopify](https://www.shopify.ca/careers/search?specialties%5B%5D=13&keywords=&sort=) |  Toronto, Ottawa |  Opens in January |  |
  |  [Pagerduty](https://www.pagerduty.com/careers/) |  Toronto |  Opens in January |   |
  |  [Loblaw Digital](https://jobs.lever.co/loblawdigital) |  Toronto | Opens in January   |   |
- |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto | Opens in January   |   |
+
+ # Applications Open February 
+ | Name  |  Location |  Application Period |  Notes |
+ |---|---|---|---|
+ |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto | Opens in Feburary   |   |
