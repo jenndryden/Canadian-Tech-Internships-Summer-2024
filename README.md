@@ -16,3 +16,8 @@ To contribute:
 |  [TopHat](https://jobs.lever.co/tophat/4589affd-1420-4d63-824f-f58c39eb37cc) |  Toronto | Opens Now! Applications due April 1st   |   |
 |  [Loblaw Digital](https://jobs.lever.co/loblawdigital) |  Toronto | Opens in January   |   |
 
+# Toronto High School Internships
+
+| Name  |  Location |  Application Period |  Notes |
+|---|---|---|---|
+|  [RBC](https://www.linkedin.com/jobs/view/innovation-developer-summer-student-rbc-high-school-labs-at-rbc-1169924626/?originalSubdomain=ca) |  Toronto |  Starting in Late March |  |
