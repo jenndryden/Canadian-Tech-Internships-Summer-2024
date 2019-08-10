@@ -30,6 +30,9 @@ To contribute:
  |  [Shopify](https://www.shopify.ca/careers/search?specialties%5B%5D=13&keywords=&sort=) |  Toronto, Ottawa |  Opens in January |  |
  |  [Pagerduty](https://www.pagerduty.com/careers/) |  Toronto |  Opens in January |   |
  |  [Loblaw Digital](https://jobs.lever.co/loblawdigital) |  Toronto | Opens in January   |   |
+ |  [Wish](https://jobs.lever.co/wish?department=University&team=University&location=Toronto%2C%20Canada) |  Toronto | Opens in January   |   |
+
+ https://jobs.lever.co/wish?department=University&team=University&location=Toronto%2C%20Canada
 
  # Applications Open February 
  | Name  |  Location |  Application Period |  Notes |
