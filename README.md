@@ -31,6 +31,8 @@ To contribute:
  |  [Pagerduty](https://www.pagerduty.com/careers/) |  Toronto |  Opens in January |   |
  |  [Loblaw Digital](https://jobs.lever.co/loblawdigital) |  Toronto | Opens in January   |   |
  |  [Wish](https://jobs.lever.co/wish?department=University&team=University&location=Toronto%2C%20Canada) |  Toronto | Opens in January   |   |
+  |  [Geotab](https://careers.geotab.com/jobs) |  Toronto | Opens in January   |   |
+ 
 
 
  # Applications Open February 
@@ -38,4 +40,5 @@ To contribute:
  |---|---|---|---|
  |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto | Opens in Feburary   |   |
   |  [Telus Digital](https://telus.taleo.net/careersection/10000/jobsearch.ftl?f=null&a=null&multiline=true&ignoreSavedQuery?linktype=subnav#) |  Toronto, Vancoover, Edmonton | Opens in Feburary   |   |
+ | 
 
