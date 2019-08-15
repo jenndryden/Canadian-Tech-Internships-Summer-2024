@@ -14,6 +14,7 @@ To contribute:
  |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto | Applications Open Now  |  Amplify Program Hires ~80 and General Tech Co-ops ~300  |
   |  [CSE](https://www.cse-cst.gc.ca/en/node/2123) |  Ottawa | Applications due Oct. 6th   |  Requires top secret security clerance  |
  |  [TopHat](https://jobs.lever.co/tophat/4589affd-1420-4d63-824f-f58c39eb37cc) |  Toronto | Applications due April 1st |   |
+ | [Amazon](https://www.amazon.jobs/en/jobs/908772/software-development-engineer-intern-summer-2020-canada) |  Toronto, Vancouver | Rolling Applications | No Set Application Deadline  |
 
 
  # Applications Open September
