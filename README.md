@@ -35,6 +35,8 @@ To contribute:
   |  [Geotab](https://careers.geotab.com/jobs) |  Toronto | Opens in January   |   |
   |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto | Opens in January   |   |
   |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Country/CA/Position-Type/Intern) |  Toronto | Opens in January   |   |
+  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be
+) |  Toronto, Waterloo | Opens in January   |   |
 
 
  # Applications Open February 
