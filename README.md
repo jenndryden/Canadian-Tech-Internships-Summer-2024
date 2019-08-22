@@ -12,9 +12,10 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto | Applications Open Now  |  Amplify Program Hires ~80 and General Tech Co-ops ~300  |
-  |  [CSE](https://www.cse-cst.gc.ca/en/node/2123) |  Ottawa | Applications due Oct. 6th   |  Requires top secret security clerance  |
+ |  [CSE](https://www.cse-cst.gc.ca/en/node/2123) |  Ottawa | Applications due Oct. 6th   |  Requires top secret security clerance  |
  |  [TopHat](https://jobs.lever.co/tophat/4589affd-1420-4d63-824f-f58c39eb37cc) |  Toronto | Applications due April 1st |   |
  | [Amazon](https://www.amazon.jobs/en/jobs/908772/software-development-engineer-intern-summer-2020-canada) |  Toronto, Vancouver | Rolling Applications | No Set Application Deadline  |
+ | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/2/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Rolling Applications | No Set Application Deadline  |
 
 
  # Applications Open September
@@ -37,11 +38,13 @@ To contribute:
   |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Country/CA/Position-Type/Intern) |  Toronto | Opens in January   |   |
   |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be
 ) |  Toronto, Waterloo | Opens in January   |   |
+  |  [NanoLeaf](https://www.indeedjobs.com/nanoleaf/jobs) |  Toronto | Opens in January   |  Hardware and Software Internships |
+
 
 
  # Applications Open February 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto | Opens in Feburary   |   |
-  |  [Telus Digital](https://telus.taleo.net/careersection/10000/jobsearch.ftl?f=null&a=null&multiline=true&ignoreSavedQuery?linktype=subnav#) |  Toronto, Vancoover, Edmonton | Opens in Feburary   |   |
+ |  [Telus Digital](https://telus.taleo.net/careersection/10000/jobsearch.ftl?f=null&a=null&multiline=true&ignoreSavedQuery?linktype=subnav#) |  Toronto, Vancouver, Edmonton | Opens in Feburary   |   |
 
