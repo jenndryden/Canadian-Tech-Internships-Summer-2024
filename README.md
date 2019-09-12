@@ -16,10 +16,9 @@ To contribute:
  |  [TopHat](https://jobs.lever.co/tophat/4589affd-1420-4d63-824f-f58c39eb37cc) |  Toronto | Applications due April 1st |   |
  | [Amazon](https://www.amazon.jobs/en/jobs/908772/software-development-engineer-intern-summer-2020-canada) |  Toronto, Vancouver | Rolling Applications | No Set Application Deadline  |
  | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/2/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Rolling Applications | No Set Application Deadline  |
-  | [Capital One](ttps://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Due Oct 21. | Click on categories and select University  |
+  | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Due Oct 21. | Click on categories and select University  |
 
  
- https://www.capitalonecareers.ca/search-jobs
 
 
  # Applications Open September
