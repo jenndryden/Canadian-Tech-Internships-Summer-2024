@@ -17,6 +17,8 @@ To contribute:
  | [Amazon](https://www.amazon.jobs/en/jobs/908772/software-development-engineer-intern-summer-2020-canada) |  Toronto, Vancouver | Rolling Applications | No Set Application Deadline  |
  | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/2/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Rolling Applications | No Set Application Deadline  |
   | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Due Oct 21. | Click on categories and select University  |
+  | [General Motors](https://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Due Oct 21. | Click on categories and select University  |
+  
 
  
 
@@ -26,7 +28,7 @@ To contribute:
  |---|---|---|---|
  |  [Snap Inc.](https://www.snap.com/jobs/?locations=Toronto&types=Intern) |  Toronto | Opens in September   |   |
  |  [BMO](https://bmocareers.com/students-and-grads/internships-and-co-ops/#) |  Toronto | Opens in September   |   |
- |  [Intact Insurance](bit.ly/IFCfuturetalent) |  Toronto | Opens in September 30  |   |
+ |  [Intact Insurance](https://bit.ly/IFCfuturetalent) |  Toronto | Opens in September 30  |   |
 
 
 
@@ -43,6 +45,11 @@ To contribute:
   |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Country/CA/Position-Type/Intern) |  Toronto | Opens in January   |   |
   |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo | Opens in January   |   |
   |  [NanoLeaf](https://www.indeedjobs.com/nanoleaf/jobs) |  Toronto | Opens in January   |  Hardware and Software Internships |
+  |  [State Street](https://statestreet.wd1.myworkdayjobs.com/Global/1/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Opens in January   |  Closes Mid-February |
+  
+  https://careers.venasolutions.com/job-board/
+
+  
 
 
 
@@ -51,4 +58,6 @@ To contribute:
  |---|---|---|---|
  |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto | Opens in Feburary   |   |
  |  [Telus Digital](https://telus.taleo.net/careersection/10000/jobsearch.ftl?f=null&a=null&multiline=true&ignoreSavedQuery?linktype=subnav#) |  Toronto, Vancouver, Edmonton | Opens in Feburary   |   |
+ |  [Vena Solutions](https://careers.venasolutions.com/job-board/) |  Toronto | Opens in Feburary   |  Closes Mid-March |
+ |  [Aviva](https://careers.avivacanada.com/career-levels/starting-your-career) |  Toronto, Montreal | Opens in Feburary   |  Closes Mid-March |
 
