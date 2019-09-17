@@ -20,13 +20,15 @@ To contribute:
 
  
 
-
  # Applications Open September
 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Snap Inc.](https://www.snap.com/jobs/?locations=Toronto&types=Intern) |  Toronto | Opens in September   |   |
  |  [BMO](https://bmocareers.com/students-and-grads/internships-and-co-ops/#) |  Toronto | Opens in September   |   |
+ |  [Intact Insurance](bit.ly/IFCfuturetalent) |  Toronto | Opens in September 30  |   |
+
+
 
  # Applications Open January
  
