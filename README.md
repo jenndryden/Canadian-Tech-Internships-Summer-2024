@@ -29,7 +29,8 @@ To contribute:
  |  [Snap Inc.](https://www.snap.com/jobs/?locations=Toronto&types=Intern) |  Toronto | Opens in September   |   |
  |  [BMO](https://bmocareers.com/students-and-grads/internships-and-co-ops/#) |  Toronto | Opens in September   |   |
  |  [Intact Insurance](https://bit.ly/IFCfuturetalent) |  Toronto | Opens in September 30  |   |
-
+ |  [Coursera](https://www.linkedin.com/jobs/view/1505527732/) |  Toronto | Opens soon  |   |
+ |  [OTPP](https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Software-Developer--4-or-16-month-contract-_2302) |  Toronto | Opens now  |   |
 
 
  # Applications Open January
