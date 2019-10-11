@@ -17,19 +17,11 @@ To contribute:
  | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/2/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Rolling Applications | No Set Application Deadline  |
   | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Due Oct 21. | Click on categories and select University  |
   |  [OTPP](https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Software-Developer--4-or-16-month-contract-_2302) |  Toronto | Opens now  |   |
+ |  [BMO](https://bmocareers.com/students-and-grads/internships-and-co-ops/#) |  Toronto | Applications Open Now   | Under Technology Early Talent |
+ |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto | Applications Open Now  |   |
 
   
 
- 
-
- # Applications Open September
-
- | Name  |  Location |  Application Period |  Notes |
- |---|---|---|---|
- |  [Snap Inc.](https://www.snap.com/jobs/?locations=Toronto&types=Intern) |  Toronto | Opens in September   |   |
- |  [BMO](https://bmocareers.com/students-and-grads/internships-and-co-ops/#) |  Toronto | Opens in September   |   |
- |  [Intact Insurance](https://bit.ly/IFCfuturetalent) |  Toronto | Opens in September 30  |   |
- |  [Coursera](https://www.linkedin.com/jobs/view/1505527732/) |  Toronto | Opens soon  |   |
 
 
  # Applications Open January
