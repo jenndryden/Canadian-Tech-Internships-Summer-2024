@@ -19,6 +19,13 @@ To contribute:
   |  [OTPP](https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Software-Developer--4-or-16-month-contract-_2302) |  Toronto | Opens now  |   |
  |  [BMO](https://bmocareers.com/students-and-grads/internships-and-co-ops/#) |  Toronto | Applications Open Now   | Under Technology Early Talent |
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto | Applications Open Now  |   |
+  |  [Google](https://g.co/kgs/dCkgG6) |  Waterloo, Montreal | Applications Open Now  |   |
+ |  [Bolt](https://www.bolt.com/jobs/software-engineer-toronto-internship-summer-2020/42bdad97-98df-47bb-ad64-93652494f2ab/) |  Toronto | Applications Open Now  |   |
+  |  [Square](https://jobs.smartrecruiters.com/Square/743999695908070-software-engineer-intern-kitchener) |  Kitchener | Applications Open Now  |   |
+ |  [Mozillia](https://careers.mozilla.org/listings/?position_type=Intern) |  Toronto | Applications Open Now  | Multiple positions availible for Toronto  |
+|  [Mark43](https://www.mark43.com/list-jobs/1335584/?gh_jid=1335584) |  Toronto | Applications Open Now  |  |
+
+
 
   
 
