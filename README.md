@@ -21,13 +21,11 @@ To contribute:
  |  [TopHat](https://jobs.lever.co/tophat/4589affd-1420-4d63-824f-f58c39eb37cc) |  Toronto | Applications due April 1st |   |
  | [Amazon](https://www.amazon.jobs/en/jobs/908772/software-development-engineer-intern-summer-2020-canada) |  Toronto, Vancouver | Rolling Applications | No Set Application Deadline  |
  | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/2/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Rolling Applications | No Set Application Deadline  |
-  | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Due Oct 21. | Click on categories and select University  |
-  |  [OTPP](https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Software-Developer--4-or-16-month-contract-_2302) |  Toronto | Opens now  |   |
- |  [BMO](https://bmocareers.com/students-and-grads/internships-and-co-ops/#) |  Toronto | Applications Open Now   | Under Technology Early Talent |
+  | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Open Now | Click on categories and select University  |
+ |  [BMO](https://bmo.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Applications Open Now   | Under Technology Early Talent |
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto | Applications Open Now  |   |
   |  [Google](https://g.co/kgs/dCkgG6) |  Waterloo, Montreal | Applications Open Now  |   |
  |  [Bolt](https://www.bolt.com/jobs/software-engineer-toronto-internship-summer-2020/42bdad97-98df-47bb-ad64-93652494f2ab/) |  Toronto | Applications Open Now  |   |
-  |  [Square](https://jobs.smartrecruiters.com/Square/743999695908070-software-engineer-intern-kitchener) |  Kitchener | Applications Open Now  |   |
  |  [Mozillia](https://careers.mozilla.org/listings/?position_type=Intern) |  Toronto | Applications Open Now  | Multiple positions availible for Toronto  |
 |  [Mark43](https://www.mark43.com/list-jobs/1335584/?gh_jid=1335584) |  Toronto | Applications Open Now  |  |
 
