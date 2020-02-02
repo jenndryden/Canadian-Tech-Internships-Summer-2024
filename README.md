@@ -37,9 +37,7 @@ To contribute:
  
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [NanoLeaf](https://www.indeedjobs.com/nanoleaf/jobs) |  Toronto | Opens in January   |  Hardware and Software Internships |
- |  [State Street](https://statestreet.wd1.myworkdayjobs.com/Global/1/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Opens in January   |  Closes Mid-February |
- | [Interac](https://interac.applytojob.com/apply) |  Toronto | Opens in January   |  Closes Mid-February | |
+
   
 
   
@@ -49,6 +47,9 @@ To contribute:
  # Applications Open February 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [NanoLeaf](https://www.indeedjobs.com/nanoleaf/jobs) |  Toronto | Opens in February   |  Hardware and Software Internships |
+ |  [State Street](https://statestreet.wd1.myworkdayjobs.com/Global/1/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Opens in February|  Closes Mid-February |
+ |  [Interac](https://interac.applytojob.com/apply) |  Toronto | Opens in February   |  Closes Mid-February | |
  |  [Loblaw Digital](https://jobs.lever.co/loblawdigital) |  Toronto | Opens in February|   |
  |  [Wish](https://jobs.lever.co/wish?department=University&team=University&location=Toronto%2C%20Canada) |  Toronto | Opens in February|   |
  |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto | Opens in Feburary   |   |
