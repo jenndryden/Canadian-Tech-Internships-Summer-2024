@@ -11,48 +11,37 @@ To contribute:
  
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
-  |  [Shopify](https://www.shopify.ca/careers/search?specialties%5B%5D=13&keywords=&sort=) |  Toronto, Ottawa |  Applications close Jan 20th |  |
-   |  [Pagerduty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) |  Toronto |  Applications Open Now |   |
+ |  [Pagerduty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) |  Toronto |  Applications Open Now |   |
  |  [Geotab](https://careers.geotab.com/jobs/) |  Toronto | Applications open now  |   |
  |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto | Applications Open Now  |  General Tech Co-ops ~700  |
-   |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo | Applications Open Now  |   |
-   |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Country/CA/Position-Type/Intern) |  Toronto | Application Open Now   |   |
-   |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto | Applications Open Now   |   |
+ |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo | Applications Open Now  |   |
+ |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Country/CA/Position-Type/Intern) |  Toronto | Application Open Now   |   |
+ |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto | Applications Open Now   |   |
  |  [TopHat](https://jobs.lever.co/tophat/4589affd-1420-4d63-824f-f58c39eb37cc) |  Toronto | Applications due April 1st |   |
- | [Amazon](https://www.amazon.jobs/en/jobs/908772/software-development-engineer-intern-summer-2020-canada) |  Toronto, Vancouver | Rolling Applications | No Set Application Deadline  |
- | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/2/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Rolling Applications | No Set Application Deadline  |
-  | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Open Now | Click on categories and select University  |
+ |  [Amazon](https://www.amazon.jobs/en/jobs/908772/software-development-engineer-intern-summer-2020-canada) |  Toronto, Vancouver | Rolling Applications | No Set Application Deadline  |
+ |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/2/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Rolling Applications | No Set Application Deadline  |
+ |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Open Now | Click on categories and select University  |
  |  [BMO](https://bmo.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Applications Open Now   | Under Technology Early Talent |
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto | Applications Open Now  |   |
-  |  [Google](https://g.co/kgs/dCkgG6) |  Waterloo, Montreal | Applications Open Now  |   |
+ |  [Google](https://g.co/kgs/dCkgG6) |  Waterloo, Montreal | Applications Open Now  |   |
  |  [Bolt](https://www.bolt.com/jobs/software-engineer-toronto-internship-summer-2020/42bdad97-98df-47bb-ad64-93652494f2ab/) |  Toronto | Applications Open Now  |   |
  |  [Mozillia](https://careers.mozilla.org/listings/?position_type=Intern) |  Toronto | Applications Open Now  | Multiple positions availible for Toronto  |
-  |  [Loblaw Digital](https://jobs.lever.co/loblawdigital) |  Toronto | Opens in January   |   |
-|  [Mark43](https://www.mark43.com/list-jobs/1335584/?gh_jid=1335584) |  Toronto | Applications Open Now  |  |
 
 
 
   
 
-
-
- # Applications Open Later in January
- 
- | Name  |  Location |  Application Period |  Notes |
- |---|---|---|---|
- |  [Wish](https://jobs.lever.co/wish?department=University&team=University&location=Toronto%2C%20Canada) |  Toronto | Opens in January   |   |
-  |  [NanoLeaf](https://www.indeedjobs.com/nanoleaf/jobs) |  Toronto | Opens in January   |  Hardware and Software Internships |
-  |  [State Street](https://statestreet.wd1.myworkdayjobs.com/Global/1/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Opens in January   |  Closes Mid-February |
-  | [Interac](https://interac.applytojob.com/apply) |  Toronto | Opens in January   |  Closes Mid-February | |
-  
-
-  
 
 
 
  # Applications Open February 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [NanoLeaf](https://www.indeedjobs.com/nanoleaf/jobs) |  Toronto | Opens in February   |  Hardware and Software Internships |
+ |  [State Street](https://statestreet.wd1.myworkdayjobs.com/Global/1/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Opens in February|  Closes Mid-February |
+ |  [Interac](https://interac.applytojob.com/apply) |  Toronto | Opens in February   |  Closes Mid-February | |
+ |  [Loblaw Digital](https://jobs.lever.co/loblawdigital) |  Toronto | Opens in February|   |
+ |  [Wish](https://jobs.lever.co/wish?department=University&team=University&location=Toronto%2C%20Canada) |  Toronto | Opens in February|   |
  |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto | Opens in Feburary   |   |
  |  [Telus Digital](https://telus.taleo.net/careersection/10000/jobsearch.ftl?f=null&a=null&multiline=true&ignoreSavedQuery?linktype=subnav#) |  Toronto, Vancouver, Edmonton | Opens in Feburary   |   |
  |  [Vena Solutions](https://careers.venasolutions.com/job-board/) |  Toronto | Opens in Feburary   |  Closes Mid-March |
