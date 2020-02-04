@@ -29,14 +29,6 @@ To contribute:
 
 
 
-  
-
-
-
- # Applications Open Later in January
- 
- | Name  |  Location |  Application Period |  Notes |
- |---|---|---|---|
 
   
 
