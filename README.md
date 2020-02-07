@@ -26,7 +26,6 @@ To contribute:
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto | Applications Open Now  |   |
  |  [Google](https://g.co/kgs/dCkgG6) |  Waterloo, Montreal | Applications Open Now  |   |
  |  [Bolt](https://www.bolt.com/jobs/software-engineer-toronto-internship-summer-2020/42bdad97-98df-47bb-ad64-93652494f2ab/) |  Toronto | Applications Open Now  |   |
- |  [Mozillia](https://careers.mozilla.org/listings/?position_type=Intern) |  Toronto | Applications Open Now  | Multiple positions availible for Toronto  |
 
 
 
