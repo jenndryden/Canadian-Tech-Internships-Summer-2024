@@ -24,7 +24,6 @@ To contribute:
  |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Open Now | Click on categories and select University  |
  |  [BMO](https://bmo.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Applications Open Now   | Under Technology Early Talent |
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto | Applications Open Now  |   |
- |  [Google](https://g.co/kgs/dCkgG6) |  Waterloo, Montreal | Applications Open Now  |   |
  |  [Bolt](https://www.bolt.com/jobs/software-engineer-toronto-internship-summer-2020/42bdad97-98df-47bb-ad64-93652494f2ab/) |  Toronto | Applications Open Now  |   |
 
 
