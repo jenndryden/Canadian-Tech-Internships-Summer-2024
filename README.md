@@ -1,37 +1,48 @@
-# Canadian Tech Internships for Summer 2020
-Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2020 that are interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) who made a similar document for the US for formatting inspiration.
+# Canadian Tech Internships for Summer 2021
+Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2021 that are interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) who made a similar document for the US for formatting inspiration.
+
+Application openings are based on previous years information and may not apply to this years applications.
 
 To contribute:
  1. Fork repository
  2. Edit README.md
  3. Open a pull request!
- 
+
  
  # Applications Open Now
- 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [Pagerduty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) |  Toronto |  Applications Open Now |   |
- |  [Geotab](https://careers.geotab.com/jobs/) |  Toronto | Applications open now  |   |
+ |  [Amazon](https://www.amazon.jobs/en/jobs/1246145/software-development-engineer-intern-winter-2021-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto | Applications Open Now  |  General Tech Co-ops ~700  |
+ |  [Geotab](https://careers.geotab.com/jobs/description/8ad9e208-21cc-4ed8-90ac-5a07b6745f0a/) |  Toronto | Applications open now  |  Data Science, Web Development and Software Engineering Available |
+ |  [Microsoft](https://careers.microsoft.com/students/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) |  Vancouver | Applications open now  |  |
+
+ 
+
+ # Applications Open September 
+ | Name  |  Location |  Application Period |  Notes |
+ |---|---|---|---|
+ |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo | Applications Open Now  |   |
- |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Country/CA/Position-Type/Intern) |  Toronto | Application Open Now   |   |
  |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto | Applications Open Now   |   |
+
+ # Applications Open December 
+ | Name  |  Location |  Application Period |  Notes |
+ |---|---|---|---|
+ |  [Unity]( https://careers.unity.com/university) |  Montreal | |   |
+ |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) |  Toronto |  |  |
+ |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Position-Type/Intern/Country/CA//?lang=en) |  Toronto |   |   |
+ |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
+ |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Position-Type/Intern/Country/CA//?lang=en) |  Toronto | Application Open Now   |   |
  |  [Unity]( https://careers.unity.com/university) |  Montreal | Applications Open Now   |   |
- |  [TopHat](https://jobs.lever.co/tophat/4589affd-1420-4d63-824f-f58c39eb37cc) |  Toronto | Applications due April 1st |   |
- |  [Amazon](https://www.amazon.jobs/en/jobs/908772/software-development-engineer-intern-summer-2020-canada) |  Toronto, Vancouver | Rolling Applications | No Set Application Deadline  |
- |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/2/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Rolling Applications | No Set Application Deadline  |
- |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto | Applications Open Now | Click on categories and select University  |
  |  [BMO](https://bmo.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Applications Open Now   | Under Technology Early Talent |
+ 
+  # Applications Open January 
+ | Name  |  Location |  Application Period |  Notes |
+ |---|---|---|---|
+ |  [Pagerduty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) |  Toronto |  |   |
+ |  [Bolt](https://www.bolt.com/careers/) |  Toronto | Applications Open Now  |   |
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto | Applications Open Now  |   |
- |  [Bolt](https://www.bolt.com/jobs/software-engineer-toronto-internship-summer-2020/42bdad97-98df-47bb-ad64-93652494f2ab/) |  Toronto | Applications Open Now  |   |
-
-
-
-  
-
-
-
 
  # Applications Open February 
  | Name  |  Location |  Application Period |  Notes |
