@@ -16,7 +16,9 @@ To contribute:
  |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto | Applications Open Now  |  General Tech Co-ops ~700  |
  |  [Geotab](https://careers.geotab.com/jobs/description/8ad9e208-21cc-4ed8-90ac-5a07b6745f0a/) |  Toronto | Applications open now  |  Data Science, Web Development and Software Engineering Available |
  |  [Microsoft](https://careers.microsoft.com/students/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) |  Vancouver | Applications open now  |  |
+ |  [Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Toronto-Canada/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014582) |  Toronto | Applications open now  |  |
 
+ 
  
 
  # Applications Open September 
