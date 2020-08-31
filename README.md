@@ -18,6 +18,7 @@ To contribute:
  |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver | Applications open now  |  |
  |  [Microsoft](https://careers.microsoft.com/students/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) |  Vancouver | Applications open now  |  |
  |  [Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Toronto-Canada/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014582) |  Toronto | Applications open now  |  |
+ |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  |  |
 
  
  
@@ -39,7 +40,6 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Unity]( https://careers.unity.com/university) |  Montreal | |   |
- |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) |  Toronto |  |  |
  |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Position-Type/Intern/Country/CA//?lang=en) |  Toronto |   |   |
  |  [BMO](https://bmo.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  | Under Technology Early Talent |
  |  [Square](https://careers.squareup.com/ca/en/university) |  Kitchener |  |   |
