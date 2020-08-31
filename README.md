@@ -19,8 +19,8 @@ To contribute:
  |  [Microsoft](https://careers.microsoft.com/students/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) |  Vancouver | Applications open now  |  |
  |  [Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Toronto-Canada/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014582) |  Toronto | Applications open now  |  |
  |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Applications open now |  |
+ |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto | Applications open now | Applications for summer due April 1st |
 
- 
  
 
  # Applications Open September 
