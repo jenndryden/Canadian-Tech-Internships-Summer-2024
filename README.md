@@ -20,13 +20,13 @@ To contribute:
  |  [Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Toronto-Canada/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014582) |  Toronto | Applications open now  |  |
  |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Applications open now |  |
  |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto | Applications open now | Applications for summer due April 1st |
+  |  [CSE](https://www.cse-cst.gc.ca/en/node/3121) |  Ottawa | Applications due Oct. 1st   |  Requires top secret security clerance  |
 
  
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
-  |  [CSE](https://www.cse-cst.gc.ca/en/careers-carrieres/students-etudiants/opportunities) |  Ottawa | Applications due Oct. 6th   |  Requires top secret security clerance  |
  |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
  |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto |    |   |
