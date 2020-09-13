@@ -12,9 +12,8 @@ To contribute:
  # Applications Open Now
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [Amazon](https://www.amazon.jobs/en/jobs/1246145/software-development-engineer-intern-winter-2021-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
+ |  [Amazon](https://www.amazon.jobs/en/jobs/1205709/software-development-engineer-intern-summer-2021-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto | Applications Open Now  |  General Tech Co-ops ~700  |
- |  [Geotab](https://careers.geotab.com/jobs/description/8ad9e208-21cc-4ed8-90ac-5a07b6745f0a/) |  Toronto | Applications open now  |  Data Science, Web Development and Software Engineering Available |
  |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver | Applications open now  |  |
  |  [Microsoft](https://careers.microsoft.com/students/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) |  Vancouver | Applications open now  |  |
  |  [Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Toronto-Canada/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014582) |  Toronto | Applications open now  |  |
@@ -51,6 +50,8 @@ To contribute:
  |  [Pagerduty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) |  Toronto |  |   |
  |  [Bolt](https://www.bolt.com/careers/) |  Toronto |   |   |
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto |  |   |
+ |  [Geotab](https://careers.geotab.com/jobs/) |  Toronto | Applications open now  |  Data Science, Web Development and Software Engineering Available |
+
 
  # Applications Open February 
  | Name  |  Location |  Application Period |  Notes |
