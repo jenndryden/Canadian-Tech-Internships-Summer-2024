@@ -21,16 +21,14 @@ To contribute:
  |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto | Applications open now | Applications for summer due April 1st |
   |  [CSE](https://www.cse-cst.gc.ca/en/node/3121) |  Ottawa | Applications due Oct. 1st   |  Requires top secret security clerance  |
   |  [Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-toronto-ontario-canada) | Toronto | Application open now
-
- 
+  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
+  |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal |  |   |
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
- |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
  |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto |    |   |
- |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal |  |   |
  |  [Mark43](https://www.mark43.com/departments/engineering/) |  Toronto |   |  |
  |  [OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |   |   |
  |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
