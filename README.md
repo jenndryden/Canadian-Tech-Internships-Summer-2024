@@ -21,8 +21,8 @@ To contribute:
  |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto | Applications open now | Applications for summer due April 1st |
   |  [CSE](https://www.cse-cst.gc.ca/en/node/3121) |  Ottawa | Applications due Oct. 1st   |  Requires top secret security clerance  |
   |  [Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-toronto-ontario-canada) | Toronto | Application open now
-  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
-  |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal |  |   |
+  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo | Application open now |   |
+  |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal | Application open now |   |
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
@@ -45,6 +45,7 @@ To contribute:
   # Applications Open January 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [Zynga](https://www.zynga.com/job-listing-category/internships-new-grads/) |  Toronto |  Applications |  |
  |  [Shopify](https://www.shopify.ca/careers/search?specialties%5B%5D=interns&keywords=&sort=specialty_asc) |  Toronto, Ottawa |  Applications close Jan 20th |  |
  |  [Pagerduty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) |  Toronto |  |   |
  |  [Bolt](https://www.bolt.com/careers/) |  Toronto |   |   |
