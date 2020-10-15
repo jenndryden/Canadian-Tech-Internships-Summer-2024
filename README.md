@@ -23,6 +23,7 @@ To contribute:
   |  [Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-toronto-ontario-canada) | Toronto | Application open now
   |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo | Application open now |   |
   |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal | Application open now |   |
+  | [Okta](https://www.okta.com/company/careers/engineering-it/software-engineer-intern-us-and-canada-2182535/) | Toronto | Application open now | |
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
