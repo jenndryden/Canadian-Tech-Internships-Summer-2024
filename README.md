@@ -14,23 +14,23 @@ To contribute:
  |---|---|---|---|
  |  [Amazon](https://www.amazon.jobs/en/jobs/1205709/software-development-engineer-intern-summer-2021-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto | Applications Open Now  |  General Tech Co-ops ~700  |
- |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver | Applications open now  |  |
- |  [Microsoft](https://careers.microsoft.com/students/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) |  Vancouver | Applications open now  |  |
- |  [Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Toronto-Canada/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014582) |  Toronto | Applications open now  |  |
- |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Applications open now |  |
- |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto | Applications open now | Applications for summer due April 1st |
+ |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver | Applications Open Now  |  |
+ |  [Microsoft](https://careers.microsoft.com/students/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) |  Vancouver | Applications Open Now  |  |
+ |  [Snap](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Toronto-Canada/Software-Engineer-Intern---Fall-2021--August-17---Sept-4-_R0014582) |  Toronto | Applications Open Now  |  |
+ |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Applications Open Now |  |
+ |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto | Applications Open Now | Applications for summer due April 1st |
   |  [CSE](https://www.cse-cst.gc.ca/en/node/3121) |  Ottawa | Applications due Oct. 1st   |  Requires top secret security clerance  |
-  |  [Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-toronto-ontario-canada) | Toronto | Application open now
-  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo | Application open now |   |
-  |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal | Application open now |   |
-  | [Okta](https://www.okta.com/company/careers/engineering-it/software-engineer-intern-us-and-canada-2182535/) | Toronto | Application open now | |
+  |  [Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-toronto-ontario-canada) | Toronto | Applications Open Now
+  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo | Applications Open Now |   |
+  |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal | Applications Open Now |   |
+  | [Okta](https://www.okta.com/company/careers/engineering-it/software-engineer-intern-us-and-canada-2182535/) | Toronto | Applications Open Now | |
+  | [Mark43](https://www.mark43.com/departments/engineering/)  |  Toronto |  Applications Open Now | |
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
  |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto |    |   |
- |  [Mark43](https://www.mark43.com/departments/engineering/) |  Toronto |   |  |
  |  [OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |   |   |
  |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
 
@@ -46,12 +46,12 @@ To contribute:
   # Applications Open January 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [Zynga](https://www.zynga.com/job-listing-category/internships-new-grads/) |  Toronto |  Applications |  |
- |  [Shopify](https://www.shopify.ca/careers/search?specialties%5B%5D=interns&keywords=&sort=specialty_asc) |  Toronto, Ottawa |  Applications close Jan 20th |  |
+ |  [Zynga](https://www.zynga.com/job-listing-category/internships-new-grads/) |  Toronto |  |  |
+ |  [Shopify](https://www.shopify.ca/careers/search?specialties%5B%5D=interns&keywords=&sort=specialty_asc) |  Toronto, Ottawa |  |  |
  |  [Pagerduty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) |  Toronto |  |   |
  |  [Bolt](https://www.bolt.com/careers/) |  Toronto |   |   |
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto |  |   |
- |  [Geotab](https://careers.geotab.com/jobs/) |  Toronto | Applications open now  |  Data Science, Web Development and Software Engineering Available |
+ |  [Geotab](https://careers.geotab.com/jobs/) |  Toronto |  |  Data Science, Web Development and Software Engineering Available |
 
 
  # Applications Open February 
