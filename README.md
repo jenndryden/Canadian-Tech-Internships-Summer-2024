@@ -25,6 +25,7 @@ To contribute:
   |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal | Applications Open Now |   |
   | [Okta](https://www.okta.com/company/careers/engineering-it/software-engineer-intern-us-and-canada-2182535/) | Toronto | Applications Open Now | |
   | [Mark43](https://www.mark43.com/departments/engineering/)  |  Toronto |  Applications Open Now | |
+  | [Publicis sapient](https://sapient.avature.net/pscampus) | Toronto | Applications Open Now | |
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
