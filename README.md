@@ -26,6 +26,8 @@ To contribute:
   | [Okta](https://www.okta.com/company/careers/engineering-it/software-engineer-intern-us-and-canada-2182535/) | Toronto | Applications Open Now | |
   | [Mark43](https://www.mark43.com/departments/engineering/)  |  Toronto |  Applications Open Now | |
   | [Publicis sapient](https://sapient.avature.net/pscampus) | Toronto | Applications Open Now | |
+  | [Splunk](https://jobs.jobvite.com/careers/splunk/job/oeaOdfw9/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Toronto | Applications Open Now | |
+  | [CN](https://cn360.csod.com/ux/ats/careersite/1/home/requisition/5239?c=cn360&lang=en-US) | Montreal | Applications Open Now | |
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
