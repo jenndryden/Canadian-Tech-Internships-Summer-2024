@@ -9,30 +9,29 @@ To contribute:
  3. Open a pull request!
 
  
- # Applications Open Now
- | Name  |  Location |  Application Period |  Notes |
- |---|---|---|---|
- |  [Amazon](https://www.amazon.jobs/en/jobs/1205709/software-development-engineer-intern-summer-2021-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
- |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto | Applications Open Now  |  General Tech Co-ops ~700  |
- |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver | Applications Open Now  |  |
- |  [Microsoft](https://careers.microsoft.com/students/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) |  Vancouver | Applications Open Now  |  |
- |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | Applications Open Now |  |
- |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto | Applications Open Now | Applications for summer due April 1st |
-  |  [CSE](https://www.cse-cst.gc.ca/en/node/3121) |  Ottawa | Applications due Oct. 1st   |  Requires top secret security clerance  |
-  |  [Pinterest](https://www.pinterestcareers.com/jobs/software-engineering-intern-toronto-ontario-canada) | Toronto | Applications Open Now
-  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo | Applications Open Now |   |
-  |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal | Applications Open Now |   |
-  | [Mark43](https://www.mark43.com/departments/engineering/)  |  Toronto |  Applications Open Now | |
-  | [Publicis sapient](https://sapient.avature.net/pscampus) | Toronto | Applications Open Now | |
-  | [Splunk](https://jobs.jobvite.com/careers/splunk/job/oeaOdfw9/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Toronto | Applications Open Now | |
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal |  |   |
+ |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto |   |  General Tech Co-ops ~700  |
+ |  [Amazon](https://www.amazon.jobs/en/teams/internships-for-students) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
  |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto |    |   |
- |  [OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |   |   |
+ |  [OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers) |  Toronto |   |   |
  |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
+ |  [Publicis sapient](https://sapient.avature.net/pscampus) | Toronto |  | |
+ |  [Splunk](https://jobs.jobvite.com/careers/splunk/job/oeaOdfw9/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Toronto |  | |
+ |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver |   |  |
+ |  [Microsoft](https://careers.microsoft.com/students/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer) |  Vancouver |   |  |
+ |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  |  |
+ |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto | Applications Open Now | Applications for summer due April 1st |
+ |  [CSE](https://www.cse-cst.gc.ca/en/node/3121) |  Ottawa | Applications due Oct. 1st   |  Requires top secret security clerance  |
+ |  [Pinterest](https://www.pinterestcareers.com/job-search-results/?job_type=Intern) | Toronto | 
+ |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
+ |  [Mark43](https://www.mark43.com/departments/engineering/)  |  Toronto |   | |
+
+
 
 
  # Applications Open December 
