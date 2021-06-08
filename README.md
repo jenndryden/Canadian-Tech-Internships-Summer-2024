@@ -1,5 +1,5 @@
 # Canadian Tech Internships for Summer 2022
-Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2021 that are interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) who made a similar document for the US for formatting inspiration.
+Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2022 that are interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) who made a similar document for the US for formatting inspiration.
 
 Application openings are based on previous years information and may not apply to this years applications.
 
