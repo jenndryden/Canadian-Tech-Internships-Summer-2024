@@ -51,6 +51,8 @@ To contribute:
  |  [Bolt](https://www.bolt.com/careers/) |  Toronto |   |   |
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto |  |   |
  |  [Geotab](https://careers.geotab.com/jobs/) |  Toronto |  |  Data Science, Web Development and Software Engineering Available |
+ |  [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/10/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Montreal |  | Montreal positions are primarily for media products |
+
 
 
  # Applications Open February 
