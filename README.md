@@ -9,6 +9,14 @@ To contribute:
  3. Open a pull request!
 
  
+ 
+ # Applications Open Now
+ | Name  |  Location |  Application Period |  Notes |
+ |---|---|---|---|
+ |  [Amazon](https://www.amazon.jobs/en/jobs/1559866/) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
+
+
+
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
