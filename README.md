@@ -21,7 +21,6 @@ To contribute:
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&location=Canada&q=&sort_by=relevance) |  Waterloo, Montreal |  |   |
  |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto |   |  General Tech Co-ops ~700  |
  |  [Amazon](https://www.amazon.jobs/en/teams/internships-for-students) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
