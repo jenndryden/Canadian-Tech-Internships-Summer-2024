@@ -14,6 +14,7 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Amazon](https://www.amazon.jobs/en/jobs/1559866/) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
+ |  [IBM](https://ibm.biz/IBMinternships) |  Across Canada (Toronto, Markham, Ottawa, Fredricton,...) | Rolling Applications | No Set Application Deadline  |
  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal | By December 3rd, 2021 |   |
  |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  | 
 
@@ -45,7 +46,6 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Unity]( https://careers.unity.com/university) |  Montreal | |   |
- |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Position-Type/Intern/Country/CA//?lang=en) |  Toronto |   |   |
  |  [BMO](https://bmo.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  | Under Technology Early Talent |
  |  [Square](https://careers.squareup.com/ca/en/university) |  Kitchener |  |   |
  
