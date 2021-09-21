@@ -16,6 +16,7 @@ To contribute:
  |  [Amazon](https://www.amazon.jobs/en/jobs/1559866/) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal | By December 3rd, 2021 |   |
  |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  | 
+ |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
 
 
 
@@ -27,7 +28,6 @@ To contribute:
  |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
  |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto |    |   |
  |  [OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers) |  Toronto |   |   |
- |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
  |  [Publicis sapient](https://sapient.avature.net/pscampus) | Toronto |  | |
  |  [Splunk](https://jobs.jobvite.com/careers/splunk/job/oeaOdfw9/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Toronto |  | |
  |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver |   |  |
