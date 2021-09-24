@@ -18,7 +18,7 @@ To contribute:
  |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  | 
  |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
  |  [CSE](https://www.cse-cst.gc.ca/en/node/3121) |  Ottawa | Applications due Oct. 1st   |  Requires top secret security clerance  |
-
+ |  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/3368543) | Toronto |  | No Set Application Deadline |
 
 
 
