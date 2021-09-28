@@ -21,7 +21,7 @@ To contribute:
  |  [CSE](https://www.cse-cst.gc.ca/en/node/3121) |  Ottawa | Applications due Oct. 1st   |  Requires top secret security clerance  |
  |  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/3368543) | Toronto |  | No Set Application Deadline |
  | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
-
+ |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  |  |
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
@@ -34,7 +34,6 @@ To contribute:
  |  [Publicis sapient](https://sapient.avature.net/pscampus) | Toronto |  | |
  |  [Splunk](https://jobs.jobvite.com/careers/splunk/job/oeaOdfw9/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Toronto |  | |
  |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver |   |  |
- |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  |  |
  |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto |  | Applications for summer due April 1st |
  |  [Pinterest](https://www.pinterestcareers.com/job-search-results/?job_type=Intern) | Toronto | 
  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
