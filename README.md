@@ -23,6 +23,7 @@ To contribute:
  | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
  |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  |  |
  |  [Twilio](https://boards.greenhouse.io/twilio/jobs/3424707) |  Toronto, Vancouver |  |  |
+ |  [RBC](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) |  Toronto |   |  Filter on summer to check open positions  | 
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
