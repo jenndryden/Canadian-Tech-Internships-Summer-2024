@@ -54,6 +54,7 @@ To contribute:
   # Applications Open January 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [Genetec](https://apply.workable.com/genetec-inc/?lng=en) | Montreal | January - March 2022 | Actively looking for Software Developers & Software Testers |
  |  [Zynga](https://www.zynga.com/job-listing-category/internships-new-grads/) |  Toronto |  |  |
  |  [Shopify](https://www.shopify.ca/careers/search?specialties%5B%5D=interns&keywords=&sort=specialty_asc) |  Toronto, Ottawa |  |  |
  |  [Pagerduty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) |  Toronto |  |   |
@@ -67,7 +68,6 @@ To contribute:
  # Applications Open February 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [Genetec](https://apply.workable.com/genetec-inc/?lng=en) | Montreal | January - March 2022 | Actively looking for Software Developers & Software Testers |
  |  [NanoLeaf](https://www.indeedjobs.com/nanoleaf/jobs) |  Toronto |   |  Hardware and Software Internships |
  |  [State Street](https://statestreet.wd1.myworkdayjobs.com/Global/1/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | |  Closes Mid-February |
  |  [Interac](https://interac.applytojob.com/apply) |  Toronto |    |  Closes Mid-February | |
