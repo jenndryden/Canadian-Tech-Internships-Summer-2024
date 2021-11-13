@@ -23,6 +23,9 @@ To contribute:
  |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  |  |
  |  [Twilio](https://boards.greenhouse.io/twilio/jobs/3424707) |  Toronto, Vancouver |  |  |
  |  [RBC](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) |  Toronto |   |  Filter on summer to check open positions  | 
+ |  [Doordash](https://boards.greenhouse.io/doordash/jobs/3393965?gh_jid=3393965) | Toronto |  | No Set Application Deadline |
+ |  [Affirm](https://boards.greenhouse.io/affirm/jobs/4650435003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote Canada |  | 	No Set Application Deadline |
+ |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/5/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-summer-view-sjb-1) |  Toronto, Vancouver |  | 	No Set Application Deadline |
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
