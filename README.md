@@ -26,6 +26,7 @@ To contribute:
  |  [Doordash](https://boards.greenhouse.io/doordash/jobs/3393965?gh_jid=3393965) | Toronto |  | No Set Application Deadline |
  |  [Affirm](https://boards.greenhouse.io/affirm/jobs/4650435003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote Canada |  | 	No Set Application Deadline |
  |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/5/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-summer-view-sjb-1) |  Toronto, Vancouver |  | 	No Set Application Deadline |
+ |  [Coveo](https://www.coveo.com/en/company/careers) |  Montreal, Quebec City |  |  |
 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
@@ -41,7 +42,7 @@ To contribute:
  |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto |  | Applications for summer due April 1st |
  |  [Pinterest](https://www.pinterestcareers.com/job-search-results/?job_type=Intern) | Toronto | 
  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
- |  [Mark43](https://www.mark43.com/departments/engineering/)  |  Toronto |   | |
+ |  [Mark43](https://www.mark43.com/departments/engineering/)  | Toronto |   | |
 
 
 
