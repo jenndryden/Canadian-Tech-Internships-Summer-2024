@@ -27,7 +27,7 @@ To contribute:
  |  [Affirm](https://boards.greenhouse.io/affirm/jobs/4650435003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote Canada |  | 	No Set Application Deadline |
  |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/5/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-summer-view-sjb-1) |  Toronto, Vancouver |  | 	No Set Application Deadline |
  |  [Coveo](https://www.coveo.com/en/company/careers) |  Montreal, Quebec City |  |  |
-
+ |  [Deloitte](https://careers.deloitte.ca/search/?createNewAlert=false&q=Summer+2022) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now - Mid January | Search for Summer 2022 |
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
