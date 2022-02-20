@@ -1,3 +1,8 @@
+# Application at the post of software engineer intern
+
+Dear Madam or Sir, 
+Currently under a work-study contract at General Electric Grid Solutions in Villeurbanne, France at the post of embedded software developer in partnership with CPE Lyon engineering school, where I am following a Master of Science degree in the field of computer science and cybersecurity, I am looking forward for a three months internship during next summer in a foreign country to validate my year and complete my training.
+
 # Canadian Tech Internships for Summer 2022
 Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2022 that are interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) who made a similar document for the US for formatting inspiration.
 
