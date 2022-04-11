@@ -80,3 +80,8 @@ To contribute:
  |  [Vena Solutions](https://careers.venasolutions.com/job-board/) |  Toronto |   |  Closes Mid-March |
  |  [Aviva](https://careers.avivacanada.com/career-levels/starting-your-career) |  Toronto, Montreal |  |  Closes Mid-March |
 
+# Toronto High School Internships
+
+| Name  |  Location |  Application Period |  Notes |
+|---|---|---|---|
+|  [RBC](https://www.linkedin.com/jobs/view/innovation-developer-summer-student-rbc-high-school-labs-at-rbc-1169924626/?originalSubdomain=ca) |  Toronto |  Starting in Late March |  |
