@@ -1,19 +1,12 @@
-# Canadian Tech Internships for Summer 2022
-Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2022 that are interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) who made a similar document for the US for formatting inspiration.
+# Canadian Tech Internships for Summer 2023 💼
+Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2023 that are interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) who made a similar document for the US for formatting inspiration.
 
-Application openings are based on previous years information and may not apply to this years applications.
+⚡️ Application openings are based on previous years information and may not apply to this years applications.
 
 To contribute:
  1. Fork repository
  2. Edit README.md
  3. Open a pull request!
-
-
- # Applications Open Now
- | Name  |  Location |  Application Period |  Notes |
- |---|---|---|---|
- | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
- | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
 
 # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
@@ -33,6 +26,8 @@ To contribute:
  |  [Mark43](https://www.mark43.com/departments/engineering/)  | Toronto |   | |
  |  [IBM](https://ibm.biz/IBMinternships) |  Across Canada (Toronto, Markham, Ottawa, Fredricton,...) | Rolling Applications | No Set Application Deadline - Starting in Fall, Continuing Through the Spring Season  |
  |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  |  Rolling Applications  | 
+ | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
+ | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
 
  # Applications Open November 
  | Name  |  Location |  Application Period |  Notes |
