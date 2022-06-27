@@ -18,6 +18,7 @@ To contribute:
 # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) | Waterloo, Montreal | Rolling Applications | |
  |  [RBC](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) |  Toronto |   |  Filter on summer to check open positions  | 
  |  [Amazon](https://www.amazon.jobs/en/teams/internships-for-students) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
