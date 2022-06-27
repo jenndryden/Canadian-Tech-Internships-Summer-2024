@@ -12,16 +12,13 @@ To contribute:
  # Applications Open Now
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [Amazon](https://www.amazon.jobs/en/jobs/1559866/) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
- |  [IBM](https://ibm.biz/IBMinternships) |  Across Canada (Toronto, Markham, Ottawa, Fredricton,...) | Rolling Applications | No Set Application Deadline  |
- |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal | By December 3rd Historically |   |
- |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  | 
- |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
+ | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
  | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
 
 # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) | Waterloo, Montreal | Rolling Applications | |
  |  [RBC](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) |  Toronto |   |  Filter on summer to check open positions  | 
  |  [Amazon](https://www.amazon.jobs/en/teams/internships-for-students) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
@@ -34,9 +31,8 @@ To contribute:
  |  [Pinterest](https://www.pinterestcareers.com/job-search-results/?job_type=Intern) | Toronto | 
  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
  |  [Mark43](https://www.mark43.com/departments/engineering/)  | Toronto |   | |
- |  [Twilio](https://boards.greenhouse.io/twilio/jobs/3424707) |  Toronto, Vancouver |  |  |
- |  [Deloitte](https://careers.deloitte.ca/search/?createNewAlert=false&q=Summer+2022) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now - Mid January | Search for Summer 2023 |
-
+ |  [IBM](https://ibm.biz/IBMinternships) |  Across Canada (Toronto, Markham, Ottawa, Fredricton,...) | Rolling Applications | No Set Application Deadline - Starting in Fall, Continuing Through the Spring Season  |
+ |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  |  Rolling Applications  | 
 
  # Applications Open November 
  | Name  |  Location |  Application Period |  Notes |
@@ -49,10 +45,13 @@ To contribute:
  # Applications Open December 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [Twilio](https://boards.greenhouse.io/twilio/jobs/3424707) |  Toronto, Vancouver |  |  |
+ |  [Deloitte](https://careers.deloitte.ca/search/?createNewAlert=false&q=Summer+2022) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now - Mid January | Search for Summer 2023 |
  |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  |  |
  |  [Unity]( https://careers.unity.com/university) |  Montreal | |   |
  |  [BMO](https://bmo.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  | Under Technology Early Talent |
  |  [Square](https://careers.squareup.com/ca/en/university) |  Kitchener |  |   |
+ 
  
   # Applications Open January 
  | Name  |  Location |  Application Period |  Notes |
