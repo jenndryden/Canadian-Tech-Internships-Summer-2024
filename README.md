@@ -13,10 +13,6 @@ To contribute:
  # Applications Open Now
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [Amazon](https://www.amazon.jobs/en/jobs/1559866/) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
- |  [IBM](https://ibm.biz/IBMinternships) |  Across Canada (Toronto, Markham, Ottawa, Fredricton,...) | Rolling Applications | No Set Application Deadline  |
- |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal | By December 3rd, 2021 |   |
- |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  | 
  |  [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
  | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
  |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  |  |
@@ -27,9 +23,12 @@ To contribute:
  |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/5/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-summer-view-sjb-1) |  Toronto, Vancouver |  | 	No Set Application Deadline |
  |  [Coveo](https://www.coveo.com/en/company/careers) |  Montreal, Quebec City |  |  |
  |  [Deloitte](https://careers.deloitte.ca/search/?createNewAlert=false&q=Summer+2022) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now - Mid January | Search for Summer 2022 |
+ 
+ 
  # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) |  Waterloo, Montreal | Rolling Applications |   |
  |  [RBC](https://jobs.rbc.com/ca/en/c/internship-coop-jobs) |  Toronto |   |  General Tech Co-ops ~700  |
  |  [Amazon](https://www.amazon.jobs/en/teams/internships-for-students) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
@@ -42,16 +41,16 @@ To contribute:
  |  [Pinterest](https://www.pinterestcareers.com/job-search-results/?job_type=Intern) | Toronto | 
  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
  |  [Mark43](https://www.mark43.com/departments/engineering/)  | Toronto |   | |
+ |  [IBM](https://ibm.biz/IBMinternships) |  Across Canada (Toronto, Markham, Ottawa, Fredricton,...) | Rolling Applications | No Set Application Deadline - Starting in Fall, Continuing Through the Spring Season  |
+ |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  |  Rolling Applications  | 
 
-
-
-
- # Applications Open December 
+# Applications Open December 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Unity]( https://careers.unity.com/university) |  Montreal | |   |
  |  [BMO](https://bmo.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  | Under Technology Early Talent |
  |  [Square](https://careers.squareup.com/ca/en/university) |  Kitchener |  |   |
+ 
  
   # Applications Open January 
  | Name  |  Location |  Application Period |  Notes |
@@ -64,7 +63,6 @@ To contribute:
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto |  |   |
  |  [Geotab](https://careers.geotab.com/jobs/) |  Toronto |  |  Data Science, Web Development and Software Engineering Available |
  |  [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/10/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Montreal |  | Montreal positions are primarily for media products |
-
 
 
  # Applications Open February 
