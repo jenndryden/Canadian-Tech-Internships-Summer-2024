@@ -10,6 +10,7 @@ To contribute:
 
 # Applications Open Now 
  | Name  |  Location |  Application Period |  Notes |
+ |---|---|---|---|
  |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
 
 
