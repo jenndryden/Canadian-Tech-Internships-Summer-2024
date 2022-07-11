@@ -8,19 +8,26 @@ To contribute:
  2. Edit README.md
  3. Open a pull request!
 
+<<<<<<< add-ansys
 
  # Applications Open Now
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Ansys](https://careers.ansys.com/job/Vancouver-Spring-and-Summer-2023-Intern-Software-Development-%28Remote%29-BACHELORSMASTERS-Brit-V6E2M6/885799200/) | Vancouver |  | Open to undergrad and masters. Need to be at least 3rd year if undergrad |
  
+=======
+# Applications Open Now 
+ | Name  |  Location |  Application Period |  Notes |
+ |---|---|---|---|
+ |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
+
+>>>>>>> master
 
 # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Google](https://careers.google.com/jobs/results/115367821606560454-software-developer-intern-bachelors-summer-2022/?distance=50&employment_type=INTERN&location=Canada) | Waterloo, Montreal | Rolling Applications | |
  |  [RBC](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) |  Toronto |   |  Filter on summer to check open positions  | 
- |  [Amazon](https://www.amazon.jobs/en/teams/internships-for-students) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
  |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto |    |   |
  |  [OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers) |  Toronto |   |   |
