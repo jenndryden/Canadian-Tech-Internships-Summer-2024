@@ -13,7 +13,9 @@ To contribute:
  |---|---|---|---|
  |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  |  [Ansys](https://careers.ansys.com/job/Vancouver-Spring-and-Summer-2023-Intern-Software-Development-%28Remote%29-BACHELORSMASTERS-Brit-V6E2M6/885799200/) | Vancouver |  | Open to undergrad and masters. Need to be at least 3rd year if undergrad |
-  |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto |  | Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship |
+ | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | Vancouver |  | No Set Application Deadline |
+ | [Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Vancouver |  | No Set Application Deadline |
+ |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto |  | Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship |
 
 # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
