@@ -15,6 +15,7 @@ To contribute:
  |  [Ansys](https://careers.ansys.com/job/Vancouver-Spring-and-Summer-2023-Intern-Software-Development-%28Remote%29-BACHELORSMASTERS-Brit-V6E2M6/885799200/) | Vancouver |  | Open to undergrad and masters. Need to be at least 3rd year if undergrad |
  | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | Vancouver |  | No Set Application Deadline |
  | [Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Vancouver |  | No Set Application Deadline |
+ | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268040003) | Toronto |  | No Set Application Deadline |
  |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto |  | Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship |
 
 # Applications Open September 
