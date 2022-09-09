@@ -14,6 +14,7 @@ To contribute:
  |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
  | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | Vancouver |  | No Set Application Deadline |
  | [Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Vancouver |  | No Set Application Deadline |
+ | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268040003) | Toronto |  | No Set Application Deadline |
  |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto |  | Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship |
 
 # Applications Open September 
