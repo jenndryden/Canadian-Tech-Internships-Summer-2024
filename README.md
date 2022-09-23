@@ -11,20 +11,20 @@ To contribute:
 # Applications Open Now 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline  |
+ |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline |
  | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | Vancouver |  | No Set Application Deadline |
  | [Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Vancouver |  | No Set Application Deadline |
  | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268040003) | Toronto |  | No Set Application Deadline |
  |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto |  | Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship | 
  |  [Google](https://careers.google.com/jobs/results/131850330833855174-software-developer-intern-bs-summer-2023/?distance=50&employment_type=INTERN) | Waterloo, Toronto, Montreal | Rolling Applications | |
- | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=3658637&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Ontario (Remote) | | |
- | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Toronto (Remote) | | | 
- | [Asana](https://asana.com/jobs/apply/4518813) | Vancouver | | | 
- | [Okta](https://www.okta.com/company/careers/software-engineer-intern-summer-2023-4554030/) | Toronto | | |
- | [Doordash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&gh_src=2e1e5a131us) | Toronto | | |
- | [Bentley](https://jobs.bentley.com/job/Burlington-Software-Development-Intern-ON-L7L-5Z1/933085500/) | Burlington, ON | | |
- | [Hewlett Packard](https://careers.hpe.com/us/en/job/1133732/Software-Developer-Intern---Summer-2023?utm_source=linkedin) | Mississauga, ON | | |
- | [Brex](https://www.brex.com/careers/6369124002?gh_jid=6369124002&gh_src=a894a5ff2) | Remote, Canada | | | 
+ | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=3658637&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Ontario (Remote) | | No Set Application Deadline |
+ | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Toronto (Remote) | | No Set Application Deadline | 
+ | [Asana](https://asana.com/jobs/apply/4518813) | Vancouver | | No Set Application Deadline | 
+ | [Okta](https://www.okta.com/company/careers/software-engineer-intern-summer-2023-4554030/) | Toronto | | No Set Application Deadline |
+ | [Doordash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&gh_src=2e1e5a131us) | Toronto | | No Set Application Deadline |
+ | [Bentley](https://jobs.bentley.com/job/Burlington-Software-Development-Intern-ON-L7L-5Z1/933085500/) | Burlington, ON | | No Set Application Deadline |
+ | [Hewlett Packard](https://careers.hpe.com/us/en/job/1133732/Software-Developer-Intern---Summer-2023?utm_source=linkedin) | Mississauga, ON | | No Set Application Deadline |
+ | [Brex](https://www.brex.com/careers/6369124002?gh_jid=6369124002&gh_src=a894a5ff2) | Remote, Canada | | No Set Application Deadline | 
  
 
 # Applications Open September 
