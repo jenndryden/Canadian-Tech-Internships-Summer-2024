@@ -35,7 +35,6 @@ To contribute:
  |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto |  | Applications for summer typically due April 1st |
  |  [Pinterest](https://www.pinterestcareers.com/job-search-results/?job_type=Intern) | Toronto | 
  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
- |  Rolling Applications  | 
  | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
 
  # Applications Open November 
