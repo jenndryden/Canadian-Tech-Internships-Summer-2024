@@ -8,7 +8,7 @@ To contribute:
  2. Edit README.md
  3. Open a pull request!
 
-# Applications Open Now 
+# ⏰ Applications Open Now 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline |
@@ -17,17 +17,17 @@ To contribute:
  | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268040003) | Toronto |  | No Set Application Deadline |
  |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto |  | Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship | 
  |  [Google](https://careers.google.com/jobs/results/131850330833855174-software-developer-intern-bs-summer-2023/?distance=50&employment_type=INTERN) | Waterloo, Toronto, Montreal | Rolling Applications | |
- | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=3658637&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Ontario (Remote) | | No Set Application Deadline |
- | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Toronto (Remote) | | No Set Application Deadline | 
- | [Asana](https://asana.com/jobs/apply/4518813) | Vancouver | | No Set Application Deadline | 
+ | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=3658637&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Ontario (Remote) | | Must be available to work full time from June - August 2023 to apply |
+ | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Toronto (Remote) | | Flexible start dates, minimum 12 weeks | 
+ | [Asana](https://asana.com/jobs/apply/4518813) | Vancouver | | 12-16 week program, Graduation date is between December 2023 and July 2024 | 
  | [Okta](https://www.okta.com/company/careers/software-engineer-intern-summer-2023-4554030/) | Toronto | | No Set Application Deadline |
- | [Doordash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&gh_src=2e1e5a131us) | Toronto | | No Set Application Deadline |
+ | [Doordash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&gh_src=2e1e5a131us) | Toronto | | May or June 2023 start date, graduation between Fall 2023 to Summer 2025 |
  | [Bentley](https://jobs.bentley.com/job/Burlington-Software-Development-Intern-ON-L7L-5Z1/933085500/) | Burlington, ON | | No Set Application Deadline |
- | [Hewlett Packard](https://careers.hpe.com/us/en/job/1133732/Software-Developer-Intern---Summer-2023?utm_source=linkedin) | Mississauga, ON | | No Set Application Deadline |
- | [Brex](https://www.brex.com/careers/6369124002?gh_jid=6369124002&gh_src=a894a5ff2) | Remote, Canada | | No Set Application Deadline | 
+ | [Hewlett Packard](https://careers.hpe.com/us/en/job/1133732/Software-Developer-Intern---Summer-2023?utm_source=linkedin) | Mississauga, ON | | Primarily work outside of an HPE office, 4th year Bachelor's student or Master's degree student |
+ | [Brex](https://www.brex.com/careers/6369124002?gh_jid=6369124002&gh_src=a894a5ff2) | Remote, Canada | | Graduating from a BA/BS program in 2024 | 
  
 
-# Applications Open September 
+# 🌻 Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
@@ -46,14 +46,14 @@ To contribute:
  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
  | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
 
- # Applications Open November 
+ # 🍂 Applications Open November 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
   |  [Affirm](https://boards.greenhouse.io/affirm/jobs/4650435003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote Canada |  | 	No Set Application Deadline |
  |  [Coveo](https://www.coveo.com/en/company/careers) |  Montreal, Quebec City |  |  |
  |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/5/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-summer-view-sjb-1) |  Toronto, Vancouver |  | 	No Set Application Deadline |
 
- # Applications Open December 
+ # ⛄ Applications Open December 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [BMO](https://bmo.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  | Under Technology Early Talent |
@@ -63,7 +63,7 @@ To contribute:
  |  [Twilio](https://boards.greenhouse.io/twilio/jobs/3424707) |  Toronto, Vancouver |  |  |
  |  [Unity]( https://careers.unity.com/university) |  Montreal | |   |
  
-  # Applications Open January 
+  # ❄️ Applications Open January 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
   |  [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/10/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Montreal |  | Montreal positions are primarily for media products |
@@ -75,7 +75,7 @@ To contribute:
  |  [Shopify](https://www.shopify.ca/careers/search?specialties%5B%5D=interns&keywords=&sort=specialty_asc) |  Toronto, Ottawa |  |  |
   |  [Zynga](https://www.zynga.com/job-listing-category/internships-new-grads/) |  Toronto |  |  |
 
- # Applications Open February 
+ # 🏔️ Applications Open February 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
   |  [Aviva](https://careers.avivacanada.com/career-levels/starting-your-career) |  Toronto, Montreal |  |  Closes Mid-March |
