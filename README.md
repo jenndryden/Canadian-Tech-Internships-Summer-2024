@@ -17,6 +17,15 @@ To contribute:
  | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268040003) | Toronto |  | No Set Application Deadline |
  |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto |  | Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship | 
  |  [Google](https://careers.google.com/jobs/results/131850330833855174-software-developer-intern-bs-summer-2023/?distance=50&employment_type=INTERN) | Waterloo, Toronto, Montreal | Rolling Applications | |
+ | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=3658637&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Ontario (Remote) | | |
+ | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Toronto (Remote) | | | 
+ | [Asana](https://asana.com/jobs/apply/4518813) | Vancouver | | | 
+ | [Okta](https://www.okta.com/company/careers/software-engineer-intern-summer-2023-4554030/) | Toronto | | |
+ | [Doordash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&gh_src=2e1e5a131us) | Toronto | | |
+ | [Bentley](https://jobs.bentley.com/job/Burlington-Software-Development-Intern-ON-L7L-5Z1/933085500/) | Burlington, ON | | |
+ | [Hewlett Packard](https://careers.hpe.com/us/en/job/1133732/Software-Developer-Intern---Summer-2023?utm_source=linkedin) | Mississauga, ON | | |
+ | [Brex](https://www.brex.com/careers/6369124002?gh_jid=6369124002&gh_src=a894a5ff2) | Remote, Canada | | | 
+ 
 
 # Applications Open September 
  | Name  |  Location |  Application Period |  Notes |
@@ -42,7 +51,6 @@ To contribute:
  |---|---|---|---|
   |  [Affirm](https://boards.greenhouse.io/affirm/jobs/4650435003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote Canada |  | 	No Set Application Deadline |
  |  [Coveo](https://www.coveo.com/en/company/careers) |  Montreal, Quebec City |  |  |
- |  [Doordash](https://boards.greenhouse.io/doordash/jobs/3393965?gh_jid=3393965) | Toronto |  | No Set Application Deadline |
  |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/5/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-summer-view-sjb-1) |  Toronto, Vancouver |  | 	No Set Application Deadline |
 
  # Applications Open December 
