@@ -12,11 +12,12 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline |
- | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | Vancouver |  | No Set Application Deadline |
+ | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | Vancouver |  | Must be freshman (class of 2026) or sophomore (class of 2025) |
  | [Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Vancouver |  | No Set Application Deadline |
  | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268040003) | Toronto |  | No Set Application Deadline |
  |  [Sentry](https://boards.greenhouse.io/sentry/jobs/4439666) | Toronto |  | Need to be in Toronto or willing to relocate (with provided stipend) for the duration of the internship | 
  |  [Google](https://careers.google.com/jobs/results/131850330833855174-software-developer-intern-bs-summer-2023/?distance=50&employment_type=INTERN) | Waterloo, Toronto, Montreal | Rolling Applications | |
+ | [Google STEP](https://careers.google.com/jobs/results/112578365900104390-step-intern-summer-2023/?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Waterloo, Montreal, Toronto | Before October 31, 2022 | Must be First or second-year Bachelor's student in Canada |
  | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=3658637&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Ontario (Remote) | | Must be available to work full time from June - August 2023 to apply |
  | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Toronto (Remote) | | Flexible start dates, minimum 12 weeks | 
  | [Asana](https://asana.com/jobs/apply/4518813) | Vancouver | | 12-16 week program, Graduation date is between December 2023 and July 2024 | 
