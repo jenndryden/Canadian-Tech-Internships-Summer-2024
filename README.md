@@ -1,4 +1,8 @@
 # Canadian Tech Internships for Summer 2023 💼
+
+[![Canadian-Tech-Internships-Summer-2023.png](https://i.postimg.cc/hGbGxd4s/Canadian-Tech-Internships-Summer-2023.png)](https://postimg.cc/bGr8fdtS)
+[![Canadian-Tech-Internships-Summer-2023-copy.png](https://i.postimg.cc/7hcPD1XH/Canadian-Tech-Internships-Summer-2023-copy.png)](https://postimg.cc/H8w19yfR)
+
 Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2023 that are interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) who made a similar document for the US for formatting inspiration.
 
 ⚡️ Application openings are based on previous years information and may not apply to this years applications.
