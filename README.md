@@ -16,8 +16,8 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline |
- | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | Vancouver |  | Must be freshman (class of 2026) or sophomore (class of 2025) |
- | [Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Vancouver |  | No Set Application Deadline |
+ | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | Vancouver |  | No Set Application Deadline |
+ | [Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students) | Vancouver |  | Must be freshman (class of 2026) or sophomore (class of 2025) |
  | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268040003) | Toronto |  | No Set Application Deadline |
 |  [Google](https://careers.google.com/jobs/results/131850330833855174-software-developer-intern-bs-summer-2023/?distance=50&employment_type=INTERN) | Waterloo, Toronto, Montreal | Rolling Applications | |
  | [Google STEP](https://careers.google.com/jobs/results/112578365900104390-step-intern-summer-2023/?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Waterloo, Montreal, Toronto | Before October 31, 2022 | Must be First or second-year Bachelor's student in Canada |
