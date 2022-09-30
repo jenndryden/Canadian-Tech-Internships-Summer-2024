@@ -30,6 +30,7 @@ To contribute:
  | [Hewlett Packard](https://careers.hpe.com/us/en/job/1133732/Software-Developer-Intern---Summer-2023?utm_source=linkedin) | Mississauga, ON | | Primarily work outside of an HPE office, 4th year Bachelor's student or Master's degree student |
  | [Brex](https://www.brex.com/careers/6369124002?gh_jid=6369124002&gh_src=a894a5ff2) | Remote, Canada | | Graduating from a BA/BS program in 2024 | 
  | [RBC Amplify](https://jobs.rbc.com/ca/en/job/R-0000030478/Developer-RBC-Amplify-2023) | Toronto | Applications open until October 31, 2022 | Graduating between August 2023 and June 2024 (College, Undergrad, Master's or PhD) | 
+  |  [Autodesk](https://autodesk.wd1.myworkdayjobs.com/fr-FR/uni/details/Stagiaire-du-dveloppement-logiciel--mai--aot-2023----Intern--Software-Development--May-Aug-2023-_22WD63823?q=canada) |  Toronto, Montreal | Rolling Applications | Montreal positions are primarily for media products |
  
 
 # 🌻 Applications Open September 
@@ -71,7 +72,6 @@ To contribute:
   # ❄️ Applications Open January 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
-  |  [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/10/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Montreal |  | Montreal positions are primarily for media products |
  |  [Bolt](https://www.bolt.com/careers/) |  Toronto |   |   |
   |  [Genetec](https://apply.workable.com/genetec-inc/?lng=en) | Montreal | January - March 2022 | Actively looking for Software Developers & Software Testers |
   |  [Geotab](https://careers.geotab.com/jobs/) |  Toronto |  |  Data Science, Web Development and Software Engineering Available |
