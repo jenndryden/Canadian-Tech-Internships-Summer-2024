@@ -29,7 +29,8 @@ To contribute:
  | [Bentley](https://jobs.bentley.com/job/Burlington-Software-Development-Intern-ON-L7L-5Z1/933085500/) | Burlington, ON | | No Set Application Deadline |
  | [Hewlett Packard](https://careers.hpe.com/us/en/job/1133732/Software-Developer-Intern---Summer-2023?utm_source=linkedin) | Mississauga, ON | | Primarily work outside of an HPE office, 4th year Bachelor's student or Master's degree student |
  | [Brex](https://www.brex.com/careers/6369124002?gh_jid=6369124002&gh_src=a894a5ff2) | Remote, Canada | | Graduating from a BA/BS program in 2024 | 
- | [RBC Amplify](https://jobs.rbc.com/ca/en/job/R-0000030478/Developer-RBC-Amplify-2023) | Toronto | Applications open until October 31, 2022 | Graduating between August 2023 and June 2024 (College, Undergrad, Master's or PhD) | 
+ | [RBC Amplify](https://jobs.rbc.com/ca/en/job/R-0000030478/Developer-RBC-Amplify-2023) | Toronto | Applications open until October 31, 2022 | Graduating between August 2023 and June 2024 (College, Undergrad, Master's or PhD) |
+ | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Toronto | | No Set Application Deadline. Also, you must be a rising senior. |  
  
 
 # 🌻 Applications Open September 
