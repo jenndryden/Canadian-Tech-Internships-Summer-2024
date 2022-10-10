@@ -21,7 +21,6 @@ To contribute:
  | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5268040003) | Toronto |  | No Set Application Deadline |
 |  [Google](https://careers.google.com/jobs/results/131850330833855174-software-developer-intern-bs-summer-2023/?distance=50&employment_type=INTERN) | Waterloo, Toronto, Montreal | Rolling Applications | |
  | [Google STEP](https://careers.google.com/jobs/results/112578365900104390-step-intern-summer-2023/?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Waterloo, Montreal, Toronto | Before October 31, 2022 | Must be First or second-year Bachelor's student in Canada |
- | [HubSpot](https://boards.greenhouse.io/embed/job_app?token=3658637&gh_src=240b46771&s=LinkedIn&source=LinkedIn) | Ontario (Remote) | | Must be available to work full time from June - August 2023 to apply |
  | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Toronto (Remote) | | Flexible start dates, minimum 12 weeks | 
  | [Asana](https://asana.com/jobs/apply/4518813) | Vancouver | | 12-16 week program, Graduation date is between December 2023 and July 2024 | 
  | [Okta](https://www.okta.com/company/careers/software-engineer-intern-summer-2023-4554030/) | Toronto | | No Set Application Deadline |
