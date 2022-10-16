@@ -49,6 +49,7 @@ To contribute:
  |  [Pinterest](https://www.pinterestcareers.com/job-search-results/?job_type=Intern) | Toronto | 
  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
  | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
+ |[Zendesk](https://jobs.zendesk.com/us/en/job/ZENDUSR22858EXTERNALENUS/2023-Summer-Intern-Software-Engineering)  R22858| Remote, Canada (Montreal, QC) |  ||
 
  # 🍂 Applications Open November 
  | Name  |  Location |  Application Period |  Notes |
