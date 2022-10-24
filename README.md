@@ -72,7 +72,8 @@ To contribute:
  |  [Wish](https://jobs.lever.co/wish?department=University&team=University&location=Toronto%2C%20Canada) |  Toronto | |   |
  |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto |   |   |
 
- # 🌻 Applications - Date Unknown (Were open last year at this time but not yet this year)
+ # 🌻 Applications - Date Unknown 
+ Note: These jobs were open last year at this time but not yet this year
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
