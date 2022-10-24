@@ -31,27 +31,6 @@ To contribute:
  | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Toronto | | No Set Application Deadline. Also, you must be a rising senior. |  
  |  [Autodesk](https://autodesk.wd1.myworkdayjobs.com/fr-FR/uni/details/Stagiaire-du-dveloppement-logiciel--mai--aot-2023----Intern--Software-Development--May-Aug-2023-_22WD63823?q=canada) |  Toronto, Montreal | Rolling Applications | Montreal positions are primarily for media products |
  
- # 🌻 Applications Open September 
- | Name  |  Location |  Application Period |  Notes |
- |---|---|---|---|
- | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
- |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto |    |   |
- |  [IBM](https://ibm.biz/IBMinternships) |  Across Canada (Toronto, Markham, Ottawa, Fredricton,...) | Rolling Applications | No Set Application Deadline - Starting in Fall, Continuing Through the Spring Season  |
- |  [Mark43](https://www.mark43.com/departments/engineering/)  | Toronto |   | |
- |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver |   |  |
- |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  
- |  [OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers) |  Toronto |   |   |
- |  [Publicis sapient](https://sapient.avature.net/pscampus) | Toronto |  | |
- |  [RBC](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) |  Toronto |   |  Filter on summer to check open positions  | 
- |  [Splunk](https://jobs.jobvite.com/careers/splunk/job/oeaOdfw9/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Toronto |  | |
- |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
- |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto |  | Applications for summer typically due April 1st |
- |  [Pinterest](https://www.pinterestcareers.com/job-search-results/?job_type=Intern) | Toronto | 
- |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
- | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
- |[Zendesk](https://jobs.zendesk.com/us/en/job/ZENDUSR22858EXTERNALENUS/2023-Summer-Intern-Software-Engineering) | Remote, Canada (Montreal, QC) |  ||
- | [1Password](https://jobs.lever.co/1password) | Remote, Canada | until Oct. 19 | Scroll to, or search "Internships" |
-
  # 🍂 Applications Open November 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
@@ -92,3 +71,24 @@ To contribute:
  |  [Vena Solutions](https://careers.venasolutions.com/job-board/) |  Toronto |   |  Closes Mid-March |
  |  [Wish](https://jobs.lever.co/wish?department=University&team=University&location=Toronto%2C%20Canada) |  Toronto | |   |
  |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto |   |   |
+
+ # 🌻 Applications - Date Unknown (Were open last year at this time but not yet this year)
+ | Name  |  Location |  Application Period |  Notes |
+ |---|---|---|---|
+ | [Capital One](https://www.capitalonecareers.ca/search-jobs) |  Toronto |  | Click on categories and select University  |
+ |  [CIBC]( https://cibc.wd3.myworkdayjobs.com/campus) |  Toronto |    |   |
+ |  [IBM](https://ibm.biz/IBMinternships) |  Across Canada (Toronto, Markham, Ottawa, Fredricton,...) | Rolling Applications | No Set Application Deadline - Starting in Fall, Continuing Through the Spring Season  |
+ |  [Mark43](https://www.mark43.com/departments/engineering/)  | Toronto |   | |
+ |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver |   |  |
+ |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  
+ |  [OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers) |  Toronto |   |   |
+ |  [Publicis sapient](https://sapient.avature.net/pscampus) | Toronto |  | |
+ |  [RBC](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) |  Toronto |   |  Filter on summer to check open positions  | 
+ |  [Splunk](https://jobs.jobvite.com/careers/splunk/job/oeaOdfw9/apply?__jvst=Job%20Board&__jvsd=LinkedIn) | Toronto |  | |
+ |  [TopHat](https://jobs.lever.co/tophat) |  Toronto |  |   |
+ |  [The Score](https://recruiting.ultipro.ca/SCO5000SCMV/JobBoard/99d4bf42-8955-9620-7bb8-7cc818df97c1/OpportunityDetail?opportunityId=e6d187fd-2988-457d-bd5a-8093b4907456) |  Toronto |  | Applications for summer typically due April 1st |
+ |  [Pinterest](https://www.pinterestcareers.com/job-search-results/?job_type=Intern) | Toronto | 
+ |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
+ | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
+ |[Zendesk](https://jobs.zendesk.com/us/en/job/ZENDUSR22858EXTERNALENUS/2023-Summer-Intern-Software-Engineering) | Remote, Canada (Montreal, QC) |  ||
+ 
