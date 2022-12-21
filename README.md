@@ -30,16 +30,10 @@ To contribute:
  | [RBC Amplify](https://jobs.rbc.com/ca/en/job/R-0000030478/Developer-RBC-Amplify-2023) | Toronto | Applications open until October 31, 2022 | Graduating between August 2023 and June 2024 (College, Undergrad, Master's or PhD) |
  | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Toronto | | No Set Application Deadline. Also, you must be a rising senior. |  
  |  [Autodesk](https://autodesk.wd1.myworkdayjobs.com/fr-FR/uni/details/Stagiaire-du-dveloppement-logiciel--mai--aot-2023----Intern--Software-Development--May-Aug-2023-_22WD63823?q=canada) |  Toronto, Montreal | Rolling Applications | Montreal positions are primarily for media products |
-  |  [Uber](https://university-uber.icims.com/jobs/118086/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=118086&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20221004T203407Z&rx_viewer=c799264355ce11edb9633156646a34e6a562356de129491ebac5273fb563ba40&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) |  Toronto | Rolling Applications | 2023 Software Engineer Intern, PEY Co-op |
-|[nventive](https://nventive.bamboohr.com/careers/92) | Montreal | | Hybrid/WFH, .NET, Web & Mobile development |
+ |  [Uber](https://university-uber.icims.com/jobs/118086/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=118086&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20221004T203407Z&rx_viewer=c799264355ce11edb9633156646a34e6a562356de129491ebac5273fb563ba40&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) |  Toronto | Rolling Applications | 2023 Software Engineer Intern, PEY Co-op |
+ |  [Intel](https://jobs.intel.com/en/job/-/-/599/41485702416) |  Toronto | Rolling Applications | Software Engineer PEY Intern
+ |[nventive](https://nventive.bamboohr.com/careers/92) | Montreal | | Hybrid/WFH, .NET, Web & Mobile development |
  
- # 🍂 Applications Open November 
- | Name  |  Location |  Application Period |  Notes |
- |---|---|---|---|
- |  [Affirm](https://boards.greenhouse.io/affirm/jobs/4650435003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote Canada |  | 	No Set Application Deadline |
- |  [Coveo](https://www.coveo.com/en/company/careers) |  Montreal, Quebec City |  |  |
- |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/5/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-summer-view-sjb-1) |  Toronto, Vancouver |  | 	No Set Application Deadline |
-
  # ⛄ Applications Open December 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
@@ -94,4 +88,8 @@ To contribute:
  |  [Sunlife](https://sunlife.wd3.myworkdayjobs.com/Campus/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto, Waterloo |  |   |
  | [Slack](https://slack.com/careers/university-recruiting#openings) | Toronto, Vancouver |  | No Set Application Deadline |
  |[Zendesk](https://jobs.zendesk.com/us/en/job/ZENDUSR22858EXTERNALENUS/2023-Summer-Intern-Software-Engineering) | Remote, Canada (Montreal, QC) |  ||
+ |  [Affirm](https://boards.greenhouse.io/affirm/jobs/4650435003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote Canada |  | 	No Set Application Deadline |
+ |  [Coveo](https://www.coveo.com/en/company/careers) |  Montreal, Quebec City |  |  |
+ |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/5/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-summer-view-sjb-1) |  Toronto, Vancouver |  | 	No Set Application Deadline |
+
  
