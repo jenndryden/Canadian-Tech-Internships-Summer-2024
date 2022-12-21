@@ -36,7 +36,7 @@ To contribute:
  |  [Uber](https://university-uber.icims.com/jobs/118086/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=118086&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20221004T203407Z&rx_viewer=c799264355ce11edb9633156646a34e6a562356de129491ebac5273fb563ba40&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) |  Toronto | Rolling Applications | 2023 Software Engineer Intern, PEY Co-op |
  |  [Intel](https://jobs.intel.com/en/job/-/-/599/41485702416) |  Toronto | Rolling Applications | Software Engineer PEY Intern
  |[nventive](https://nventive.bamboohr.com/careers/92) | Montreal | | Hybrid/WFH, .NET, Web & Mobile development |
- |  [Square]([https://jobs.intel.com/en/job/-/-/599/41485702416](https://jobs.smartrecruiters.com/square/743999871611051-software-engineer-intern-toronto-summer-2023-)) |  Toronto | Rolling Applications | Summer 2023 Software Engineer Intern
+ |  [Square](https://jobs.smartrecruiters.com/square/743999871611051-software-engineer-intern-toronto-summer-2023-) |  Toronto | Rolling Applications | Summer 2023 Software Engineer Intern
  
  # ⛄ Applications Open December 
  | Name  |  Location |  Application Period |  Notes |
