@@ -37,6 +37,7 @@ To contribute:
  |  [Intel](https://jobs.intel.com/en/job/-/-/599/41485702416) |  Toronto | Rolling Applications | Software Engineer PEY Intern
  |[nventive](https://nventive.bamboohr.com/careers/92) | Montreal | | Hybrid/WFH, .NET, Web & Mobile development |
  |  [Square](https://jobs.smartrecruiters.com/square/743999871611051-software-engineer-intern-toronto-summer-2023-) |  Toronto | Rolling Applications | Summer 2023 Software Engineer Intern
+  |[Binance](https://jobs.lever.co/binance/07229368-3705-4e6d-ace1-ff63e165f507) | Toronto | | Data Science Intern |
  
  # ⛄ Applications Open December 
  | Name  |  Location |  Application Period |  Notes |
