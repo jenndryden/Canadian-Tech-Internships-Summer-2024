@@ -21,7 +21,6 @@ To contribute:
  |  [Google](https://careers.google.com/jobs/results/131850330833855174-software-developer-intern-bs-summer-2023/?distance=50&employment_type=INTERN) | Waterloo, Toronto, Montreal | Rolling Applications | |
  | [Google STEP](https://careers.google.com/jobs/results/112578365900104390-step-intern-summer-2023/?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Waterloo, Montreal, Toronto | Before October 31, 2022 | Must be First or second-year Bachelor's student in Canada |
  | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Toronto (Remote) | | Flexible start dates, minimum 12 weeks | 
- | [Asana](https://asana.com/jobs/apply/4518813) | Vancouver | | 12-16 week program, Graduation date is between December 2023 and July 2024 | 
  | [Okta](https://www.okta.com/company/careers/software-engineer-intern-summer-2023-4554030/) | Toronto | | No Set Application Deadline |
  | [Doordash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&gh_src=2e1e5a131us) | Toronto | | May or June 2023 start date, graduation between Fall 2023 to Summer 2025 |
  | [Bentley](https://jobs.bentley.com/job/Burlington-Software-Development-Intern-ON-L7L-5Z1/933085500/) | Burlington, ON | | No Set Application Deadline |
