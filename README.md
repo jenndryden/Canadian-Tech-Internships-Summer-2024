@@ -37,6 +37,7 @@ To contribute:
  |[nventive](https://nventive.bamboohr.com/careers/92) | Montreal | | Hybrid/WFH, .NET, Web & Mobile development |
  |  [Square](https://jobs.smartrecruiters.com/square/743999871611051-software-engineer-intern-toronto-summer-2023-) |  Toronto | Rolling Applications | Summer 2023 Software Engineer Intern
   |[Binance](https://jobs.lever.co/binance/07229368-3705-4e6d-ace1-ff63e165f507) | Toronto | | Data Science Intern |
+  | [Wealthsimple](https://ca.linkedin.com/jobs/view/software-engineering-internship-summer-2023-at-wealthsimple-3419612051?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Toronto | | Software Engineering Intern |
  
  # ⛄ Applications Open December 
  | Name  |  Location |  Application Period |  Notes |
@@ -69,7 +70,6 @@ To contribute:
  |  [Telus Digital](https://telus.taleo.net/careersection/10000/jobsearch.ftl?f=null&a=null&multiline=true&ignoreSavedQuery?linktype=subnav#) |  Toronto, Vancouver, Edmonton |    |   |
  |  [Vena Solutions](https://careers.venasolutions.com/job-board/) |  Toronto |   |  Closes Mid-March |
  |  [Wish](https://jobs.lever.co/wish?department=University&team=University&location=Toronto%2C%20Canada) |  Toronto | |   |
- |  [WealthSimple](https://jobs.lever.co/wealthsimple?commitment=Intern) |  Toronto |   |   |
 
  # 🌻 Applications - Date Unknown 
  Note: These jobs were open last year at this time but not yet this year
