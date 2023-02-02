@@ -15,6 +15,7 @@ To contribute:
  # ⏰ Applications Open Now 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [Caseware](https://jobs.lever.co/caseware/8a7d5050-305d-49d0-9ec6-732d90da12e4) |  Toronto |  Rolling Applications | Software Developer Co-op |
  |  [Ripple](https://ripple.com/careers/all-jobs/) |  Toronto |  Rolling Applications |  Data Engineer Intern, Blockchain Engineer Intern, Product Management Intern and more |
    |  [RBC](https://jobs.rbc.com/ca/en/job/R-0000041261/return%20false) |  Toronto |  Applications open until Feb 6, 2023 |  2023 Summer Software Developer (PEY Co-op) in Sales and Advisory |
  |  [Uber](https://university-uber.icims.com/jobs/118086/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=118086&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20221004T203407Z&rx_viewer=c799264355ce11edb9633156646a34e6a562356de129491ebac5273fb563ba40&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) |  Toronto | Rolling Applications | 2023 Software Engineer Intern, PEY Co-op |
