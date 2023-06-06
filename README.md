@@ -18,13 +18,14 @@ To contribute:
    |  [Google](https://careers.google.com/jobs/results/124424466764571334-software-developer-intern-bs-summer-2024/?company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&src=Online%2FGoogle%20Website%2FByF&utm_campaign=ByF&utm_medium=careers_site%20&utm_source=Online%20) |  Toronto, Waterloo |  Applications open until June 12th, 2023 |  Software Developer Intern, BS, Summer 2024 |
 
  # 🌻 Upcoming Applications
+ ## Based on 2023 Internship Openings
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
- |  [RBC](https://jobs.rbc.com/ca/en/job/R-0000041261/return%20false) |  Toronto |  Applications open until Feb 6, 2023 |  2023 Summer Software Developer (PEY Co-op) in Sales and Advisory |
- |  [Uber](https://university-uber.icims.com/jobs/118086/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=118086&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20221004T203407Z&rx_viewer=c799264355ce11edb9633156646a34e6a562356de129491ebac5273fb563ba40&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) |  Toronto | Rolling Applications | 2023 Software Engineer Intern, PEY Co-op |
+ |  [RBC](https://jobs.rbc.com/ca/en/job/R-0000041261/return%20false) |  Toronto |  Applications open until Feb 6 |  Summer Software Developer (PEY Co-op) in Sales and Advisory |
+ |  [Uber](https://university-uber.icims.com/jobs/118086/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=118086&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20221004T203407Z&rx_viewer=c799264355ce11edb9633156646a34e6a562356de129491ebac5273fb563ba40&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) |  Toronto | Rolling Applications | Software Engineer Intern, PEY Co-op |
  |  [Intel](https://jobs.intel.com/en/job/-/-/599/41485702416) |  Toronto | Rolling Applications | Software Engineer PEY Intern
  |[nventive](https://nventive.bamboohr.com/careers/92) | Montreal | | Hybrid/WFH, .NET, Web & Mobile development |
- |  [Square](https://jobs.smartrecruiters.com/square/743999871611051-software-engineer-intern-toronto-summer-2023-) |  Toronto | Rolling Applications | Summer 2023 Software Engineer Intern
+ |  [Square](https://jobs.smartrecruiters.com/square/743999871611051-software-engineer-intern-toronto-summer-2023-) |  Toronto | Rolling Applications | Summer Software Engineer Intern
   |[Binance](https://jobs.lever.co/binance/07229368-3705-4e6d-ace1-ff63e165f507) | Toronto | | Data Science Intern |
   | [Wealthsimple](https://ca.linkedin.com/jobs/view/software-engineering-internship-summer-2023-at-wealthsimple-3419612051?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Toronto | | Software Engineering Intern |
  |  [Amazon](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada) |  Toronto, Vancouver, Victoria | Rolling Applications | No Set Application Deadline |
@@ -34,17 +35,17 @@ To contribute:
  | [Google STEP](https://careers.google.com/jobs/results/112578365900104390-step-intern-summer-2023/?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | Waterloo, Montreal, Toronto | Before October 31, 2022 | Must be First or second-year Bachelor's student in Canada |
  | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1) | Toronto (Remote) | | Flexible start dates, minimum 12 weeks | 
  | [Okta](https://www.okta.com/company/careers/software-engineer-intern-summer-2023-4554030/) | Toronto | | No Set Application Deadline |
- | [Doordash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&gh_src=2e1e5a131us) | Toronto | | May or June 2023 start date, graduation between Fall 2023 to Summer 2025 |
+ | [Doordash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&gh_src=2e1e5a131us) | Toronto | | May or June start date |
  | [Bentley](https://jobs.bentley.com/job/Burlington-Software-Development-Intern-ON-L7L-5Z1/933085500/) | Burlington, ON | | No Set Application Deadline |
  | [Hewlett Packard](https://careers.hpe.com/us/en/job/1133732/Software-Developer-Intern---Summer-2023?utm_source=linkedin) | Mississauga, ON | | Primarily work outside of an HPE office, 4th year Bachelor's student or Master's degree student |
  | [Brex](https://www.brex.com/careers/6369124002?gh_jid=6369124002&gh_src=a894a5ff2) | Remote, Canada | | Graduating from a BA/BS program in 2024 | 
- | [RBC Amplify](https://jobs.rbc.com/ca/en/job/R-0000030478/Developer-RBC-Amplify-2023) | Toronto | Applications open until October 31, 2022 | Graduating between August 2023 and June 2024 (College, Undergrad, Master's or PhD) |
+ | [RBC Amplify](https://jobs.rbc.com/ca/en/job/R-0000030478/Developer-RBC-Amplify-2023) | Toronto | Applications open until October 31, 2022 | College, Undergrad, Master's or PhD |
  | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Toronto | | No Set Application Deadline. Also, you must be a rising senior. |  
  |  [Autodesk](https://autodesk.wd1.myworkdayjobs.com/fr-FR/uni/details/Stagiaire-du-dveloppement-logiciel--mai--aot-2023----Intern--Software-Development--May-Aug-2023-_22WD63823?q=canada) |  Toronto, Montreal | Rolling Applications | Montreal positions are primarily for media products |
-  |  [Uber](https://university-uber.icims.com/jobs/118086/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=118086&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20221004T203407Z&rx_viewer=c799264355ce11edb9633156646a34e6a562356de129491ebac5273fb563ba40&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) |  Toronto | Rolling Applications | 2023 Software Engineer Intern, PEY Co-op |
-  |  [TD](https://jobs.td.com/en-CA/job-search-results/?addtnl_categories=Campus%20Program&sub_category=Internship%2FCo-Op%20and%20Summer%20Opportunities&employment_type=Full%20Time&primary_country=CA) |  Toronto | Rolling Applications | Before Janurary 30, 2023 |
+  |  [Uber](https://university-uber.icims.com/jobs/118086/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=118086&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20221004T203407Z&rx_viewer=c799264355ce11edb9633156646a34e6a562356de129491ebac5273fb563ba40&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) |  Toronto | Rolling Applications | Software Engineer Intern, PEY Co-op |
+  |  [TD](https://jobs.td.com/en-CA/job-search-results/?addtnl_categories=Campus%20Program&sub_category=Internship%2FCo-Op%20and%20Summer%20Opportunities&employment_type=Full%20Time&primary_country=CA) |  Toronto | Rolling Applications | Before Janurary 30 |
  |  [BMO](https://bmo.wd3.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  | Under Technology Early Talent |
- |  [Deloitte](https://careers.deloitte.ca/search/?createNewAlert=false&q=Summer+2023) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Now - Mid January | Search for Summer 2023 |
+ |  [Deloitte](https://careers.deloitte.ca/search/?createNewAlert=false&q=Summer+2023) |  Across Canada (Toronto, Montreal, Ottawa, ...) | Applications close January | Search for Summer |
  |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto |  |  |
  |  [Twilio](https://boards.greenhouse.io/twilio/jobs/3424707) |  Toronto, Vancouver |  |  |
  |  [Unity]( https://careers.unity.com/university) |  Montreal | |   |
@@ -84,7 +85,7 @@ To contribute:
  |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/5/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-summer-view-sjb-1) |  Toronto, Vancouver |  | 	No Set Application Deadline |
   |  [Caseware](https://jobs.lever.co/caseware/8a7d5050-305d-49d0-9ec6-732d90da12e4) |  Toronto |  Rolling Applications | Software Developer Co-op |
  |  [Ripple](https://ripple.com/careers/all-jobs/) |  Toronto |  Rolling Applications |  Data Engineer Intern, Blockchain Engineer Intern, Product Management Intern and more |
- |  [Vidyard](https://boards.greenhouse.io/vidyard/jobs/4940451) |  Remote, Canada |  Applications open until April 21, 2023 |  Fall 2023 Web Team Software Developer Co-Op/Intern |
- |  [Vidyard](https://boards.greenhouse.io/vidyard/jobs/4940414) |  Remote, Canada |  Applications open until April 21, 2023 |  Fall 2023 Software Developer Co-Op/Intern |
+ |  [Vidyard](https://boards.greenhouse.io/vidyard/jobs/4940451) |  Remote, Canada |   |  Web Team Software Developer Co-Op/Intern |
+ |  [Vidyard](https://boards.greenhouse.io/vidyard/jobs/4940414) |  Remote, Canada |   |  Software Developer Co-Op/Intern |
 
  
