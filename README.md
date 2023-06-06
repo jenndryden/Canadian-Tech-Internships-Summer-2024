@@ -50,7 +50,7 @@ To contribute:
  |  [Twilio](https://boards.greenhouse.io/twilio/jobs/3424707) |  Toronto, Vancouver |  |  |
  |  [Unity]( https://careers.unity.com/university) |  Montreal | |   |
   |  [Bolt](https://www.bolt.com/careers/) |  Toronto |   |   |
- |  [Genetec](https://apply.workable.com/genetec-inc/?lng=en) | Montreal | January - March 2022 | Actively looking for Software Developers & Software Testers |
+ |  [Genetec](https://apply.workable.com/genetec-inc/?lng=en) | Montreal | January - March | Actively looking for Software Developers & Software Testers |
  |  [Geotab](https://careers.geotab.com/jobs/) |  Toronto |  |  Data Science, Web Development and Software Engineering Available |
  |  [Intact Insurance](https://careers.intact.ca/ca/en/c/students-jobs) |  Toronto |  |   |
  |  [Pagerduty](https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP) |  Toronto |  |   |
