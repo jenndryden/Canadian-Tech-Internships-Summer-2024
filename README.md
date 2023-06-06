@@ -82,6 +82,8 @@ To contribute:
  |  [Affirm](https://boards.greenhouse.io/affirm/jobs/4650435003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Remote Canada |  | 	No Set Application Deadline |
  |  [Coveo](https://www.coveo.com/en/company/careers) |  Montreal, Quebec City |  |  |
  |  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships/5/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-summer-view-sjb-1) |  Toronto, Vancouver |  | 	No Set Application Deadline |
+  |  [Caseware](https://jobs.lever.co/caseware/8a7d5050-305d-49d0-9ec6-732d90da12e4) |  Toronto |  Rolling Applications | Software Developer Co-op |
+ |  [Ripple](https://ripple.com/careers/all-jobs/) |  Toronto |  Rolling Applications |  Data Engineer Intern, Blockchain Engineer Intern, Product Management Intern and more |
  |  [Vidyard](https://boards.greenhouse.io/vidyard/jobs/4940451) |  Remote, Canada |  Applications open until April 21, 2023 |  Fall 2023 Web Team Software Developer Co-Op/Intern |
  |  [Vidyard](https://boards.greenhouse.io/vidyard/jobs/4940414) |  Remote, Canada |  Applications open until April 21, 2023 |  Fall 2023 Software Developer Co-Op/Intern |
 
