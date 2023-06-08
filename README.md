@@ -16,6 +16,7 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
    |  [Google](https://careers.google.com/jobs/results/124424466764571334-software-developer-intern-bs-summer-2024/?company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&src=Online%2FGoogle%20Website%2FByF&utm_campaign=ByF&utm_medium=careers_site%20&utm_source=Online%20) |  Toronto, Waterloo |  Applications open until June 12th, 2023 |  Software Developer Intern, BS, Summer 2024 |
+   |  [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) |  Vancouver, Montreal, Waterloo |  Rolling Applications |  Software Development and Testing (Spring 2024) |
 
  # 🌻 Upcoming Applications
  ## Based on 2023 Internship Openings
