@@ -15,8 +15,7 @@ To contribute:
  # ⏰ Applications Open Now 
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
-   |  [Google](https://careers.google.com/jobs/results/124424466764571334-software-developer-intern-bs-summer-2024/?company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&src=Online%2FGoogle%20Website%2FByF&utm_campaign=ByF&utm_medium=careers_site%20&utm_source=Online%20) |  Toronto, Waterloo |  Applications open until June 12th, 2023 |  Software Developer Intern, BS, Summer 2024 |
-
+   
  # 🌻 Upcoming Applications
  ## Based on 2023 Internship Openings
  | Name  |  Location |  Application Period |  Notes |
