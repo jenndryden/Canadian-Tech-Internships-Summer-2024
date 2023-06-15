@@ -16,7 +16,7 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
    |  [Intuit](https://jobs.intuit.com/job/-/-/27595/48755364528?cid=job_li_click_ca_active-fy20_cn_text_job_intuit-talent&iis=job&iisn=li) |  Toronto |  Unknown |  Software Developer Intern, Term Unknown |
-
+   |  Google |  Toronto, Waterloo | :lock: Closed :lock:|  Software Developer Intern, BS, Summer 2024 |
  # 🌻 Upcoming Applications
  ## Based on 2023 Internship Openings
  | Name  |  Location |  Application Period |  Notes |
