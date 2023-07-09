@@ -16,6 +16,7 @@ To contribute:
  
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5654760003) |  Toronto |  Unknown |  Summer 2024 UofT PEY - Software Developer Intern (12-16 months) |
  |  [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) |  Vancouver, Montreal, Waterloo |  Rolling Applications |  Software Development and Testing (Spring 2024) |
  |  [Intuit](https://jobs.intuit.com/job/-/-/27595/48755364528?cid=job_li_click_ca_active-fy20_cn_text_job_intuit-talent&iis=job&iisn=li) |  Toronto |  Unknown |  Software Developer Intern, Term Unknown |
    |  Google |  Toronto, Waterloo | :lock: Closed :lock:|  Software Developer Intern, BS, Summer 2024 |
