@@ -18,7 +18,7 @@ To contribute:
  |---|---|---|---|
  |  [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1405428?uid=WdGd8tgOdAzFLoUI) |  Ottawa |  Rolling Applications |  Software Engineer (Intern) Canada |
  |  [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) |  Vancouver, Montreal, Waterloo |  Rolling Applications |  Software Development and Testing (Spring 2024) |
- |  [Intuit](https://jobs.intuit.com/job/-/-/27595/48755364528?cid=job_li_click_ca_active-fy20_cn_text_job_intuit-talent&iis=job&iisn=li) |  Toronto |  Unknown |  Software Developer Intern, Term Unknown |
+ |  [Intuit](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2) |  Toronto |  Unknown |  Software Developer Co-op - 8 Months |
    |  Google |  Toronto, Waterloo | :lock: Closed :lock:|  Software Developer Intern, BS, Summer 2024 |
    
  # 🌻 Upcoming Applications
