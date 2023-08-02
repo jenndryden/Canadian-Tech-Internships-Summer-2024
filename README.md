@@ -9,14 +9,11 @@ Crowdsourced list of Canadian tech companies that are hiring interns for Summer 
 
 To contribute:
 
-1.  Fork repository
-2.  Edit README.md
-3.  Open a pull request!
-
 # ⏰ Applications Open Now
 
 | Name                                                                                                                     | Location                      | Application Period   | Notes                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------- | --------------------------------------------------------------- |
+|  [Sentry](https://boards.greenhouse.io/sentry/jobs/5226302)                                                              | Toronto                       | Unknown              | Software Engineer (Intern)                                      |
 | [Rocket Lab](https://boards.greenhouse.io/rocketlab/jobs/5679154003)                                                     | Toronto, US locations         | Unknown              | Summer 2024 Internship/ Co-Op - Software                        |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5654760003)                                                       | Toronto                       | Unknown              | Summer 2024 UofT PEY - Software Developer Intern (12-16 months) |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1405428?uid=WdGd8tgOdAzFLoUI)          | Ottawa                        | Rolling Applications | Software Engineer (Intern) Canada                               |
