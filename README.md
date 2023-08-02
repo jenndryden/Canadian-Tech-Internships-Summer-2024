@@ -16,6 +16,7 @@ To contribute:
  
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
+ |  [Sentry](https://boards.greenhouse.io/sentry/jobs/5226302) |  Toronto |  Unknown |  Software Engineer (Intern) |
  |  [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5654760003) |  Toronto |  Unknown |  Summer 2024 UofT PEY - Software Developer Intern (12-16 months) |
  |  [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1405428?uid=WdGd8tgOdAzFLoUI) |  Ottawa |  Rolling Applications |  Software Engineer (Intern) Canada |
  |  [Intuit](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2) |  Toronto |  Unknown |  Software Developer Co-op - 8 Months |
