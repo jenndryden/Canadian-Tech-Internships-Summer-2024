@@ -8,6 +8,9 @@ Crowdsourced list of Canadian tech companies that are hiring interns for Summer 
 ⚡️ Application openings are based on previous years information and may not apply to this year's applications.
 
 To contribute:
+1.  Fork repository
+2.  Edit README.md
+3.  Open a pull request!
 
 | Name                                                                                                                     | Location                      | Application Period   | Notes                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------- | --------------------------------------------------------------- |
