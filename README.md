@@ -17,6 +17,7 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
  |  [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5654760003) |  Toronto |  Unknown |  Summer 2024 UofT PEY - Software Developer Intern (12-16 months) |
+ |  [Rocket Lab](https://boards.greenhouse.io/rocketlab/jobs/5679154003) |  Toronto, US locations |  Unknown |  Summer 2024 Internship/ Co-Op - Software |
  |  [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1405428?uid=WdGd8tgOdAzFLoUI) |  Ottawa |  Rolling Applications |  Software Engineer (Intern) Canada |
  |  [Intuit](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2) |  Toronto |  Unknown |  Software Developer Co-op - 8 Months |
  |  Ansys |  Vancouver, Montreal, Waterloo |  :lock: Closed :lock: |  Software Development and Testing (Spring 2024) |
