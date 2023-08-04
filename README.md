@@ -19,8 +19,14 @@ To contribute:
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5654760003)                                                       | Toronto                       | Unknown              | Summer 2024 UofT PEY - Software Developer Intern (12-16 months) |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1405428?uid=WdGd8tgOdAzFLoUI)          | Ottawa                        | Rolling Applications | Software Engineer (Intern) Canada                               |
 | [Intuit](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2) | Toronto                       | Unknown              | Software Developer Co-op - 8 Months                             |
-| Ansys                                                                                                                    | Vancouver, Montreal, Waterloo | :lock: Closed :lock: | Software Development and Testing (Spring 2024)                  |
-| Google                                                                                                                   | Toronto, Waterloo             | :lock: Closed :lock: | Software Developer Intern, BS, Summer 2024                      |
+| Ansys                                                                                                                    | Vancouver, Montreal, Waterloo | :lock: Closed :lock: | Software Development and Testing (Spring 2024)                 |
+| Google                                                                                                                   | Toronto, Waterloo             | :lock: Closed :lock: | Software Developer Intern, BS, Summer 2024                     |
+| [StackAdapt](https://shorturl.at/cEQ37)                                                                                  | Unknown                       | Unknown              | Software Engineer Intern - Backend                               |
+| [Asana Early Career Programs](https://shorturl.at/mqGKV)                                                                 | Vancouver, BC, Canada         | Unknown              | Software Engineering Internship                              |
+| [Waabi](https://simplify.jobs/p/e58c393a-175d-45cf-9fb7-86989c607a83/Research-InternshipCo-op)                           | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                   |
+| [Perpetua Labs](https://simplify.jobs/p/192879dc-7a64-4cf6-b491-dc5c354ec80b/Software-Development-Engineer-In-Test--Co-op) | Toronto, ON, Canada         | Unknown              | Software Development Engineer In Test - Co-op                   |
+| [Klue](https://simplify.jobs/p/4bbcf0e2-31c1-4232-8912-9184788c6095/Data-Analyst-Intern)                                  | Unknown                      | Unknown              | Data Analyst Intern                                             |
+| [Auto Desk](https://simplify.jobs/p/41e37bba-3214-4034-ad36-fd654d2a4eae?utm_source=GH-List)                               | Toronto, ON, Canada         | Unknown              | Intern – Software Developer - 1 Year Term                       |
 
 # 🌻 Upcoming Applications
 
