@@ -23,7 +23,7 @@ To contribute:
 | Google                                                                                                                   | Toronto, Waterloo             | :lock: Closed :lock: | Software Developer Intern, BS, Summer 2024                     |
 | [StackAdapt](https://shorturl.at/cEQ37)                                                                                  | Unknown                       | Unknown              | Software Engineer Intern - Backend                               |
 | [Asana Early Career Programs](https://shorturl.at/mqGKV)                                                                 | Vancouver, BC, Canada         | Unknown              | Software Engineering Internship                              |
-| [Waabi]([https://simplify.jobs/p/e58c393a-175d-45cf-9fb7-86989c607a83/Research-InternshipCo-op](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace/apply?lever-source=Simplify))                           | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                   |
+| [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace/apply?lever-source=Simplify)                           | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                   |
 | [Klue](https://simplify.jobs/p/4bbcf0e2-31c1-4232-8912-9184788c6095/Data-Analyst-Intern)                                  | Unknown                      | Unknown              | Data Analyst Intern                                             |
 
 # 🌻 Upcoming Applications
