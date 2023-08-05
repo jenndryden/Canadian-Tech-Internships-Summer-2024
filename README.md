@@ -22,7 +22,6 @@ To contribute:
 | Ansys                                                                                                                    | Vancouver, Montreal, Waterloo | :lock: Closed :lock: | Software Development and Testing (Spring 2024)                 |
 | Google                                                                                                                   | Toronto, Waterloo             | :lock: Closed :lock: | Software Developer Intern, BS, Summer 2024                     |
 | [StackAdapt](https://shorturl.at/cEQ37)                                                                                  | Unknown                       | Unknown              | Software Engineer Intern - Backend                               |
-| [Asana Early Career Programs](https://shorturl.at/mqGKV)                                                                 | Vancouver, BC, Canada         | Unknown              | Software Engineering Internship                              |
 | [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace/apply?lever-source=Simplify)                           | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                   |
 | [Klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef)                                  | Unknown                      | Unknown              | Data Analyst Intern                                             |
 
