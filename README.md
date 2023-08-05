@@ -24,7 +24,7 @@ To contribute:
 | [StackAdapt](https://shorturl.at/cEQ37)                                                                                  | Unknown                       | Unknown              | Software Engineer Intern - Backend                               |
 | [Asana Early Career Programs](https://shorturl.at/mqGKV)                                                                 | Vancouver, BC, Canada         | Unknown              | Software Engineering Internship                              |
 | [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace/apply?lever-source=Simplify)                           | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                   |
-| [Klue](https://simplify.jobs/p/4bbcf0e2-31c1-4232-8912-9184788c6095/Data-Analyst-Intern)                                  | Unknown                      | Unknown              | Data Analyst Intern                                             |
+| [Klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef)                                  | Unknown                      | Unknown              | Data Analyst Intern                                             |
 
 # 🌻 Upcoming Applications
 
