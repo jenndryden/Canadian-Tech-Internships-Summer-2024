@@ -8,9 +8,10 @@ Crowdsourced list of Canadian tech companies that are hiring interns for Summer 
 ⚡️ Application openings are based on previous years information and may not apply to this year's applications.
 
 To contribute:
+
 1.  Fork repository
 2.  Edit README.md
-3.  Open a pull request!
+3.  Open a pull request!https://waabi.ai
 
 | Name                                                                                                                     | Location                      | Application Period   | Notes                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------- | --------------------------------------------------------------- |
@@ -21,13 +22,15 @@ To contribute:
 | [Intuit](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2) | Toronto                       | Unknown              | Software Developer Co-op - 8 Months                             |
 | Ansys                                                                                                                    | Vancouver, Montreal, Waterloo | :lock: Closed :lock: | Software Development and Testing (Spring 2024)                  |
 | Google                                                                                                                   | Toronto, Waterloo             | :lock: Closed :lock: | Software Developer Intern, BS, Summer 2024                      |
+| [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace)                                                | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                       |
+| [Klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef)                                                  | Unknown                       | Unknown              | Data Analyst Intern                                             |
 
 # 🌻 Upcoming Applications
 
 ## Based on 2023 Internship Openings
 
-| Name                                                                                                                     | Location                      | Application Period   | Notes                                                           |
-| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------- | --------------------------------------------------------------- |
+| Name                                                                                                                                                                                                                                                                                                                                                                                                                         | Location                                                 | Application Period                 | Notes                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------- | --- |
 | [RBC](https://jobs.rbc.com/ca/en/job/R-0000041261/return%20false)                                                                                                                                                                                                                                                                                                                                                            | Toronto                                                  | Applications open until Feb 6      | Summer Software Developer (PEY Co-op) in Sales and Advisory                                     |
 | [Uber](https://university-uber.icims.com/jobs/118086/job?iis=marketing&iisn=Linkedin&iisp=paid&linkedin_sponsored=sponsored&rx_campaign=Linkedin1&rx_group=1462&rx_job=118086&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20221004T203407Z&rx_viewer=c799264355ce11edb9633156646a34e6a562356de129491ebac5273fb563ba40&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Toronto                                                  | Rolling Applications               | Software Engineer Intern, PEY Co-op                                                             |
 | [Intel](https://jobs.intel.com/en/job/-/-/599/41485702416)                                                                                                                                                                                                                                                                                                                                                                   | Toronto                                                  | Rolling Applications               | Software Engineer PEY Intern                                                                    |
