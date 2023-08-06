@@ -10,7 +10,7 @@ Crowdsourced list of Canadian tech companies that are hiring interns for Summer 
 To contribute:
 1.  Fork repository
 2.  Edit README.md
-3.  Open a pull request!
+3.  Open a pull request!https://waabi.ai
 
 | Name                                                                                                                     | Location                      | Application Period   | Notes                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------- | --------------------------------------------------------------- |
@@ -21,8 +21,8 @@ To contribute:
 | [Intuit](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2) | Toronto                       | Unknown              | Software Developer Co-op - 8 Months                             |
 | Ansys                                                                                                                    | Vancouver, Montreal, Waterloo | :lock: Closed :lock: | Software Development and Testing (Spring 2024)                 |
 | Google                                                                                                                   | Toronto, Waterloo             | :lock: Closed :lock: | Software Developer Intern, BS, Summer 2024                     |
-| [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace)                           | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                   |
-| [Klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef)                                  | Unknown                      | Unknown              | Data Analyst Intern                                             |
+| [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace)                                                | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                       |
+| [Klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef)                                                  | Unknown                       | Unknown              | Data Analyst Intern                                             |
 
 # 🌻 Upcoming Applications
 
