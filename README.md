@@ -24,6 +24,7 @@ To contribute:
 | Google                                                                                                                   | Toronto, Waterloo             | :lock: Closed :lock: | Software Developer Intern, BS, Summer 2024                      |
 | [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace)                                                | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                       |
 | [Klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef)                                                  | Unknown                       | Unknown              | Data Analyst Intern                                             |
+| [Sony Pictures Imageworks](https://boards.greenhouse.io/sonypicturesimageworks/jobs/5654034003)                                                  | Vancouver                       | Unknown              | Software Engineer, Co-op - Computer Graphics                                             |
 
 # 🌻 Upcoming Applications
 
