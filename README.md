@@ -11,7 +11,7 @@ To contribute:
 
 1.  Fork repository
 2.  Edit README.md
-3.  Open a pull request!https://waabi.ai
+3.  Open a pull request!
 
 | Name                                                                                                                     | Location                      | Application Period   | Notes                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------- | --------------------------------------------------------------- |
@@ -24,7 +24,8 @@ To contribute:
 | Google                                                                                                                   | Toronto, Waterloo             | :lock: Closed :lock: | Software Developer Intern, BS, Summer 2024                      |
 | [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace)                                                | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                       |
 | [Klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef)                                                  | Unknown                       | Unknown              | Data Analyst Intern                                             |
-| [Sony Pictures Imageworks](https://boards.greenhouse.io/sonypicturesimageworks/jobs/5654034003)                                                  | Vancouver                       | Unknown              | Software Engineer, Co-op - Computer Graphics                                             |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer--Co-op_REQ1870?utm_source=SimplifyGH&ref=Simplify)                                                                                                              | Richmond, BC                  | Unknown              | Software Developer Co-op                                        |
+
 
 # 🌻 Upcoming Applications
 
