@@ -15,6 +15,7 @@ To contribute:
 
 | Name                                                                                                                     | Location                      | Application Period   | Notes                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------- | --------------------------------------------------------------- |
+| [Tiktok](https://careers.tiktok.com/position/7266060247121938748/detail)                                                 | Vancouver                     | Rolling Applications | Backend Engineer (Intern), Summer 2024                                      |
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/5226302)                                                               | Toronto                       | Unknown              | Software Engineer (Intern)                                      |
 | [Rocket Lab](https://boards.greenhouse.io/rocketlab/jobs/5679154003)                                                     | Toronto, US locations         | Unknown              | Summer 2024 Internship/ Co-Op - Software                        |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5654760003)                                                       | Toronto                       | Unknown              | Summer 2024 UofT PEY - Software Developer Intern (12-16 months) |
