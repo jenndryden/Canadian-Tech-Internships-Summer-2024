@@ -14,17 +14,18 @@ To contribute:
 3.  Open a pull request!
 
 | Name                                                                                                                     | Location                      | Application Period   | Notes                                                           |
-| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------- | --------------------------------------------------------------- |
-| [Sentry](https://boards.greenhouse.io/sentry/jobs/5226302)                                                               | Toronto                       | Unknown              | Software Engineer (Intern)                                      |
-| [Rocket Lab](https://boards.greenhouse.io/rocketlab/jobs/5679154003)                                                     | Toronto, US locations         | Unknown              | Summer 2024 Internship/ Co-Op - Software                        |
-| [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5654760003)                                                       | Toronto                       | Unknown              | Summer 2024 UofT PEY - Software Developer Intern (12-16 months) |
-| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1405428?uid=WdGd8tgOdAzFLoUI)          | Ottawa                        | Rolling Applications | Software Engineer (Intern) Canada                               |
-| [Intuit](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2) | Toronto                       | Unknown              | Software Developer Co-op - 8 Months                             |
+| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------- | ---------------------------------------------------------------- |
+| [Sentry](https://boards.greenhouse.io/sentry/jobs/5226302)                                                               | Toronto                       | Unknown              | Software Engineer (Intern)                                       |
+| [Rocket Lab](https://boards.greenhouse.io/rocketlab/jobs/5679154003)                                                     | Toronto, US locations         | Unknown              | Summer 2024 Internship/ Co-Op - Software                         |
+| [Konrad](https://boards.greenhouse.io/konradgroup/jobs/5654760003)                                                       | Toronto                       | Unknown              | Summer 2024 UofT PEY - Software Developer Intern (12-16 months)  |
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1405428?uid=WdGd8tgOdAzFLoUI)          | Ottawa                        | Rolling Applications | Software Engineer (Intern) Canada                                |
+| [Intuit](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2) | Toronto                       | Unknown              | Software Developer Co-op - 8 Months                              |
 | Ansys                                                                                                                    | Vancouver, Montreal, Waterloo | :lock: Closed :lock: | Software Development and Testing (Spring 2024)                  |
 | Google                                                                                                                   | Toronto, Waterloo             | :lock: Closed :lock: | Software Developer Intern, BS, Summer 2024                      |
-| [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace)                                                | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                       |
-| [Klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef)                                                  | Unknown                       | Unknown              | Data Analyst Intern                                             |
-| [Sony Pictures Imageworks](https://boards.greenhouse.io/sonypicturesimageworks/jobs/5654034003)                                                  | Vancouver                       | Unknown              | Software Engineer, Co-op - Computer Graphics                                             |
+| [Waabi](https://jobs.lever.co/waabi/ad3c77da-5607-4c4f-8784-8407478cbace)                                                | Toronto, ON, Canada           | Unknown              | Research Internship/Co-op                                        |
+| [Klue](https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef)                                                  | Unknown                       | Unknown              | Data Analyst Intern                                              |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer--Co-op_REQ1870?utm_source=SimplifyGH&ref=Simplify)                                                                                                                                    | Richmond, BC                  | Unknown              | Software Developer Co-op                                         |
+
 
 # 🌻 Upcoming Applications
 
