@@ -15,6 +15,7 @@ To contribute:
 
 | Name                                                                                                                     | Location                      | Application Period   | Notes                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | -------------------- | ---------------------------------------------------------------- |
+| [Vial](https://jobs.lever.co/Vial/574e2485-a3ea-4766-861f-7adba543169a)                                                  | Remote                        | Unknown              | Software Engineer Intern                                      |
 | [Tiktok](https://careers.tiktok.com/position/7266060247121938748/detail)                                                 | Vancouver                     | Rolling Applications | Backend Engineer (Intern), Summer 2024                                      |
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/5226302)                                                               | Toronto                       | Unknown              | Software Engineer (Intern)                                       |
 | [Rocket Lab](https://boards.greenhouse.io/rocketlab/jobs/5679154003)                                                     | Toronto, US locations         | Unknown              | Summer 2024 Internship/ Co-Op - Software                         |
