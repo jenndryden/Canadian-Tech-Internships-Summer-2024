@@ -31,6 +31,7 @@ To contribute:
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)                                               | Toronto, ON                   | Unknown              | Summer Analyst (Engineering)                                    |
 | [Sony Pictures Imageworks](https://boards.greenhouse.io/sonypicturesimageworks/jobs/5654034003)                                                            | Vancouver                     | Unknown              | Software Engineer, Co-op - Computer Graphics                    |
 | [Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search)                                                                        | Calgary and Montreal          | Unknown              | Technology Summer Analyst Program                               |
+| [Ontario Teachers Pension Plan](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers)                                                                        | Toronto          | Before September 30th               | Product Engineering Intern, Middleware Analyst Intern, Solution Engineering Intern - 16 Months |
 
 # 🌻 Upcoming Applications
 
