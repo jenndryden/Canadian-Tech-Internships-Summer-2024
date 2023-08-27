@@ -1,0 +1,27 @@
+# Thank you to https://github.com/marketplace/actions/prettier-action
+
+name: Linter
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Prettify code
+        uses: creyD/prettier_action@v4.3
+        with:
+          prettier_options: --write **/*.md
