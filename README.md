@@ -29,6 +29,7 @@ To contribute:
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Toronto, ON |Unknown| Summer Analyst (Engineering) |
 | [Sony Pictures Imageworks](https://boards.greenhouse.io/sonypicturesimageworks/jobs/5654034003)                          | Vancouver                       | Unknown              | Software Engineer, Co-op - Computer Graphics                                             |
 | [Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search) | Calgary and Montreal |Unknown|  Technology Summer Analyst Program |
+| [Microsoft](https://jobs.careers.microsoft.com/us/en/job/1592677/Software-Engineering:-Internship-Opportunities,-Vancouver,-BC?jobsource=indeed) | Vancouver |Unknown| Software Engineering: Internship Opportunities|
 
 # 🌻 Upcoming Applications
 
