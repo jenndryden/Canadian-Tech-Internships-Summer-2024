@@ -13,8 +13,13 @@ To contribute:
 2.  Edit README.md
 3.  Open a pull request!
 
+> 💡 Want more help? Check out the `CONTRIBUTING.md` document for more information on how to contribute
+
+# 🎉 Current Applications
+
 | Name                                                                                                                                                       | Location                      | Application Period    | Notes                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | --------------------- | ---------------------------------------------------------------------------------------------- |
+| [Intel](https://jobs.intel.com/en/job/-/-/599/53371062752)                                                                                                 | Toronto, Montreal             | Unknown               | Compiler Engineering PEY Intern 16 months                                                      |
 | [Procter & Gamble](https://www.pgcareers.com/us/en/job/R000088536/BLACK-STUDENT-INTERNSHIP-CO-OP-JAN-OR-MAY-2024)                                          | Toronto, Montreal             | January, May 2024     | Black Student Internship                                                                       |
 | [Microsoft](https://jobs.careers.microsoft.com/us/en/job/1592677/Software-Engineering:-Internship-Opportunities,-Vancouver,-BC?jobsource=indeed)           | Vancouver                     | Unknown               | Software Engineering: Internship Opportunities                                                 |
 | [Doordash](https://boards.greenhouse.io/doordash/jobs/5309455?gh_jid=5309455)                                                                              | Toronto                       | Unknown               | Software Engineer, Intern - Toronto (Summer 2024)                                              |
