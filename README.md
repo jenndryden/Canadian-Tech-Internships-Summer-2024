@@ -13,6 +13,10 @@ To contribute:
 2.  Edit README.md
 3.  Open a pull request!
 
+> 💡 Want more help? Check out the `CONTRIBUTING.md` document for more information on how to contribute
+
+# 🎉 Current Applications
+
 | Name                                                                                                                                                       | Location                      | Application Period    | Notes                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | --------------------- | ---------------------------------------------------------------------------------------------- |
 | [Intel](https://jobs.intel.com/en/job/-/-/599/53371062752)                                                                                                 | Toronto, Montreal             | Unknown               | Compiler Engineering PEY Intern 16 months                                                      |
