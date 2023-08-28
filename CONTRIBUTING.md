@@ -1,4 +1,3 @@
-
 ![ContributionStandards2024](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024/assets/35787431/cd82cc81-024f-47a9-abd5-00227274014b)
 
 # 🏆 Contribution Standards
