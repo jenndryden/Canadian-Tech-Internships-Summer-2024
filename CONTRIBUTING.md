@@ -27,6 +27,7 @@ Once you have found the right internship, you can add it to the list. Follow the
 ```
 | [Company Name](link) | Location | Application Period | Notes | Date Posted                                                                                         |
 ```
+
 **NOTE**: New internships should be added to the top of the list, not at the bottom.
 
 3. Create a pull request.
