@@ -14,7 +14,7 @@ The internships should adhere to some basic guidelines. The internship must
   - Software/Computer Engineering
   - Machine Learning/AI/Data Science
   - Any other tech-related internships
-- Be located in the Canada or remote.
+- Be located in Canada or remote.
 - Not already exist in the internship list.
 
 ## 📝 Editing README.md
@@ -25,8 +25,10 @@ Once you have found the right internship, you can add it to the list. Follow the
 2. Edit the README.md for any changes. You can use the template below for any new internships:
 
 ```
-| [Company Name](link) | Location | Application Period | Notes |                                                                                          |
+| [Company Name](link) | Location | Application Period | Notes | Date Posted                                                                                         |
 ```
+
+**NOTE**: New internships should be added to the top of the list, not at the bottom.
 
 3. Create a pull request.
 
