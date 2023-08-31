@@ -25,7 +25,7 @@ Once you have found the right internship, you can add it to the list. Follow the
 2. Edit the README.md for any changes. You can use the template below for any new internships:
 
 ```
-| [Company Name](link) | Location | Application Period | Notes |                                                                                          | Date Posted   |
+| [Company Name](link) | Location | Application Period | Notes | Date Posted                                                                                         |
 ```
 **NOTE**: New internships should be added to the top of the list, not at the bottom.
 
