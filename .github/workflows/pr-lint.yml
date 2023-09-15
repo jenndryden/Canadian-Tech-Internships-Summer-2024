@@ -6,7 +6,7 @@
 name: Linter
 
 on:
-  push:
+  pull_request:
     branches:
       - '*'
 
@@ -20,8 +20,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          ref: ${{github.event.pull_request.head.ref }}
+          repository: ${{github.event.pull_request.head.repo.full_name}}
 
       - name: Prettify code
         uses: creyD/prettier_action@v4.3
         with:
           prettier_options: --write **/*.md
+          dry: true
