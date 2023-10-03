@@ -15,8 +15,6 @@ To contribute:
 
 > 💡 Want more help? Check out the `CONTRIBUTING.md` document for more information on how to contribute
 
-
-
 # 🎉 Current Applications
 
 | Name                                                                                                                                  | Location                                | Application Period    | Notes                                                                                          | Date Posted |
@@ -68,8 +66,6 @@ To contribute:
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1405428?uid=WdGd8tgOdAzFLoUI)                       | Ottawa                                  | Rolling Applications  | Software Engineer (Intern) Canada                                                              | Jul 10      |
 | Intuit                                                                                                                                | Toronto                                 | :lock: Closed :lock:  | Software Developer Co-op - 8 Months                                                            | Jun 27      |
 | Google                                                                                                                                | Toronto, Waterloo                       | :lock: Closed :lock:  | Software Developer Intern, BS, Summer 2024                                                     | Jun 6       |
-
-
 
 # 🌻 Upcoming Applications
 
