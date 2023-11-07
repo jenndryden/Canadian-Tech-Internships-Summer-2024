@@ -17,8 +17,10 @@ To contribute:
 
 # 🎉 Current Applications
 
+
 | Name                                                                                                                                          | Location                                | Application Period    | Notes                                                                                          | Date Posted |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------- | ----------- |
+| [Lyft](https://app.careerpuck.com/job-board/lyft/job/7001950002?gh_jid=7001950002) | Toronto             | Open               | This role requires bachelor's or master's graduation between December 2024 and Summer 2025.  If you are not graduating with your bachelor's or master's degree between this time period, we encourage you to apply during another season.                                                                | Nov 3rd     |
 | [Lumine Group](https://luminegrp.wd3.myworkdayjobs.com/en-US/Incognito/job/QA-Software-Engineer---Intern_JR102322)                            | Remote                                  | Unknown               | QA Software Engineer - Intern                                                                  | Oct 31st    |
 | [Stone X](https://careers-stonex.icims.com/jobs/10137/intern---software-engineer/job)                                                         | Toronto, ON                             | Unknown               | Software Engineering Intern                                                                    | Oct 31st    |
 | [Qualcomm](https://careers.qualcomm.com/careers?pid=446695217860&domain=qualcomm.com&sort_by=relevance)                                       | Markham, ON                             | Unknown               | FY24 Intern - Display Software Engineering Internship                                          | Oct 31st    |
