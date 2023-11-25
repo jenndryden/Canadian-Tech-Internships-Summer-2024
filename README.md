@@ -81,4 +81,4 @@ To contribute:
 
 Past years' applications have been archived. You can find them here:
 
-- [Summer 2023 Applications](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024/blob/main/archive/y2022-2023.md)
+- [Summer 2023 Applications](archive/y2022-2023.md)
