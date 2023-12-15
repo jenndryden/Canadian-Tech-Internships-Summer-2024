@@ -15,9 +15,9 @@ To contribute:
 
 > 💡 Want more help? Check out the `CONTRIBUTING.md` document for more information on how to contribute
 
-# 🎉 Current Applications
+# 🎉 Summer 2024 Applications
 
-| Name                                                                                                                                                                                  | Location                                | Application Period    | Notes                                                                                          | Date Posted |
+| Name                                                                                                                                                                                  | Location                                | Application Status    | Notes                                                                                          | Date Posted |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------- | ----------- |
 | [Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career?source=website_levels.fyi&ref=levels.fyi&src=levels.fyi&Location_Country=a30a87ed25634629aa6c3958aa2b91ea) | British Columbia                        | Unknown               | Multiple Positions                                                                             | Dec 1       |
 | Ribbit                                                                                                                                                                                | Toronto                                 | 🔒 Closed 🔒          | Software Engineering Intern - Robotics                                                         | Nov 23      |
@@ -79,6 +79,14 @@ To contribute:
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1405428?uid=WdGd8tgOdAzFLoUI)                                                                       | Ottawa                                  | Rolling Applications  | Software Engineer (Intern) Canada                                                              | Jul 10      |
 | Intuit                                                                                                                                                                                | Toronto                                 | 🔒 Closed 🔒          | Software Developer Co-op - 8 Months                                                            | Jun 27      |
 | Google                                                                                                                                                                                | Toronto, Waterloo                       | 🔒 Closed 🔒          | Software Developer Intern, BS, Summer 2024                                                     | Jun 6       |
+
+> ⚡ EXPERIMENTAL - Now adding applications for Winter, Fall, and Spring terms, checkout the applications below!
+
+# 🎉 Off-Season Applications
+
+| Name                                                                                                                    | Location | Application Period | Application Status   | Notes                                                 | Date Posted |
+| ----------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | -------------------- | ----------------------------------------------------- | ----------- |
+| [Amazon](https://www.amazon.jobs/en/jobs/2518092/amazon-robotics-software-development-engineer-co-op-fall-2024-toronto) | Toronto  | Fall 2024          | Rolling Applications | Amazon Robotics - Software Development Engineer Co-Op | Dec 15      |
 
 # 🌻 Upcoming Applications
 
