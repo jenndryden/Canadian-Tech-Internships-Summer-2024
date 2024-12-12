@@ -16,7 +16,6 @@ To contribute:
 # 🎉 Summer 2025 Internship Applications
 
 <!-- prettier-ignore -->
-
 | Name | Location | Status | Position | Date Posted | Notes |
 | ---- | -------- | ------ | -------- | ----------- | ----- |
 | [ABB](https://careers.abb/global/en/job/ABB1GLOBAL93110632EXTERNALENGLOBAL/Software-Development-Intern-Software-Engineering?utm_source=linkedin&utm_medium=phenom-feeds)                                                                                                                                                                                                                | Dorval, Quebec                              | :lock: Closed :lock:                         | Software Development Intern - Software Engineering                                | Sep 13      |                                                                                           |
