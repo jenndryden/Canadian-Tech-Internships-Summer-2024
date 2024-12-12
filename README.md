@@ -126,4 +126,5 @@ To contribute:
 
 Past years' applications have been archived. You can find them here:
 
+- [Summer 2024 Applications](archive/y2023-2024.md)
 - [Summer 2023 Applications](archive/y2022-2023.md)
