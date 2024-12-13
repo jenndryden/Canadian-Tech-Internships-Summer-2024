@@ -13,7 +13,9 @@ To contribute:
 
 > 💡 Want more help? Check out the `CONTRIBUTING.md` document for more information on how to contribute
 
-# 🎉 Summer 2025 Internship Applications
+# 🎉 2025 Internship Applications
+
+<img width="761" alt="Intern Positions" src="https://github.com/user-attachments/assets/aff1baa0-bc49-48a6-b9be-75ab7bc2c193" />
 
 <!-- prettier-ignore -->
 | Name | Location | Status | Position | Date Posted | Notes |
@@ -120,7 +122,31 @@ To contribute:
 
 # 🎉 New Grad Full-Time 2025 Applications
 
-## Coming soon! 🥳
+<img width="761" alt="Full Time Positions" src="https://github.com/user-attachments/assets/03ad5f36-2005-4a97-8ac7-9d8dea53de74" />
+
+| Name | Location | Status | Position | Date Posted | Notes |
+|------|----------|---------|-----------|-------------|--------|
+| [Amazon](https://simplify.jobs/c/Amazon) | Vancouver, Canada | Open | New Grad 2025: Front-End Engineer | Nov 11 | |
+| [Amazon](https://simplify.jobs/c/Amazon) | Toronto, ON, Canada/Vancouver, BC, Canada | Open | Software Development Engineer I | Dec 10 | |
+| [Amazon](https://simplify.jobs/c/Amazon) | Vancouver, Canada/Toronto, Canada | Open | Software Dev Engineer I, Redshift | Oct 15 | |
+| [Canonical](https://boards.greenhouse.io/canonicaljobs) | Vancouver, Canada | Open | Web Frontend Engineer | Sep 27 | |
+| [Capital One](https://capitalone.wd1.myworkdayjobs.com/) | Toronto, Canada | Open | New Grad: Associate Software Engineer | Nov 26 | |
+| [Ciena](https://www.ciena.com/about/careers) | Ottawa, Canada | Open | New Grad: Routing/IP Software Engineer | Nov 19 | |
+| [Coalition](https://www.coalitioninc.com/careers) | Canada | Open | Software Engineer | Oct 02 | |
+| [Crowdstrike](https://www.crowdstrike.com/careers/) | Remote/Canada | Open | Software Engineer, Linux | Nov 19 | |
+| [Epic Games](https://www.epicgames.com/careers) | Montréal, Canada | Open | Desktop Platform Programmer | Oct 14 | |
+| [Intelliware](https://jobs.lever.co/intelliware) | Toronto, Canada | Open | New Grad: Junior Software Developer | Aug 21 | |
+| [Johnson Controls](https://www.johnsoncontrols.com/careers) | Ontario, Canada | Open | Junior Embedded Software Developer | Dec 11 | |
+| [Konrad](https://www.konrad.com/careers) | Vancouver, Canada | Open | New Grad: Software Developer | Aug 06 | |
+| [Mastercard](https://careers.mastercard.com/) | Vancouver, Canada | Open | Data Scientist I | Sep 13 | |
+| [Okta](https://www.okta.com/company/careers/) | Toronto, ON, Canada | Open | Software Engineer – New Graduate - Android | Nov 27 | |
+| [Robinhood](https://careers.robinhood.com/) | Toronto, Canada | Open | Software Development Engineer in Test | Oct 14 | |
+| [Tailscale](https://tailscale.com/careers/) | Remote/Canada | Open | Backend Engineer | Oct 02 | |
+| [Uber](https://www.uber.com/careers/) | Toronto, Canada | Open | New Grad 2024: Software Engineer I, TOR | Oct 05 | |
+| [Vertex](https://vertexinc.wd1.myworkdayjobs.com/) | Remote in Canada | Open | Software Developer – New Grad | Dec 12 | |
+| [Waabi](https://jobs.lever.co/waabi) | Remote/Canada | Open | New Grad: Software Engineer | Sep 12 | |
+| [Warp](https://www.warp.dev/careers) | Remote US & Canada | Open | Software Engineer | Jul 10 | |
+| [Yelp](https://www.yelp.careers/) | Montreal/Vancouver/Calgary/Toronto/Canada | Open | Entry Level Software Engineer | Nov 26 | |
 
 ---
 
