@@ -1,12 +1,12 @@
-![ContributionStandards2024](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024/assets/35787431/cd82cc81-024f-47a9-abd5-00227274014b)
+![ContributionStandards2025](https://github.com/user-attachments/assets/9f8fb7af-ebca-4f74-a21e-a758890b06ca)
 
 # 🏆 Contribution Standards
 
-Thank you for your interest in contributing to **Canadian Tech Internships Summer 2024 repository**.
+Thank you for your interest in contributing to **Canadian Tech Internships and New Grad 2025repository**.
 
 Below, you'll find the guidelines for the repository. If you notice any bugs or unexpected changes, please create an [issue](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024/issues). For any other questions, suggestions, or recommendations, head over to [discussions](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024/discussions).
 
-## 🔎 Finding an Internship to Add
+## 🔎 Finding an Internship or New Grad Position to Add
 
 The internships should adhere to some basic guidelines. The internship must
 
@@ -27,8 +27,6 @@ Once you have found the right internship, you can add it to the list. Follow the
 ```
 | [Company Name](link) | Location | Application Status | Notes | Date Posted |
 ```
-
-**NOTE**: New internships should be added to the top of the list, not at the bottom.
 
 3. Create a pull request.
 
